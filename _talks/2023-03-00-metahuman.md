@@ -8,7 +8,7 @@ date: 2023-03-10
 location: "Beijing, China"
 ---
 
-This talk focus on the generation of metahuman prototype - 3D reconstruction based on [Alicevision](https://github.com/alicevision/AliceVision)(A photogrammetric computer vision framework by C/C++), [Meshroom](https://github.com/alicevision/Meshroom)(A GUI-based 3D reconstruction software by using Alicevision framework) and [meshroom_CLI](https://github.com/davidmoncas/meshroom_CLI)(An open-source repository to control the phtogrammetry software Meshroom without its GUI using `Python` script).
+This talk focus on the generation of metahuman prototype - 3D reconstruction based on [Alicevision](https://github.com/alicevision/AliceVision)(A photogrammetric computer vision framework by `C/C++`), [Meshroom](https://github.com/alicevision/Meshroom)(A GUI-based 3D reconstruction software by using Alicevision framework) and [meshroom_CLI](https://github.com/davidmoncas/meshroom_CLI)(An open-source repository to control the phtogrammetry software Meshroom without its GUI using `Python` script).
 
 ## Summary 
 
