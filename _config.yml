@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Tianhao Li"
   avatar           : "profile.png"
-  bio              : "IEEE Student Member, also known as David Lee"
+  bio              : "IEEE Student Member<br>Also known as David Lee"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -231,7 +231,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

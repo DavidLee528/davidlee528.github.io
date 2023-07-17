@@ -30,12 +30,12 @@ redirect_from:
 
 ### Academic Related
 
-- I can write $\LaTeX$ and collaborate with [Overleaf](https://www.overleaf.com/).
+- I can write $\LaTeX$ in either [Overleaf](https://www.overleaf.com/) and local environment.
 - I know the process from writing to publication.
 
 ### Engineering Related
 
-- Version control by `Git` and `SVN`
+- Version control and team develop by `Git` or `SVN`
 - GNU/Linux
   - Both CLI and GUI
   - Thorough comprehension of [Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
@@ -54,7 +54,7 @@ redirect_from:
 
 ### Frameworks & Programming Languages
 
-- C/C++
+- C / Modern C++
 - Python
 - Java
 - Assembly (x86)
