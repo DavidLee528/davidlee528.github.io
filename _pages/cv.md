@@ -16,11 +16,9 @@ redirect_from:
 
 ## Research & Work Experience
 
-- October 2022 - Present: High-Tech Innovation Laboratory
-  - Research Intern
+- October 2022 - Present: High-Tech Innovation Laboratory *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. Ying Li
-- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd
-  - Develop Intern
+- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Develop Intern)*
   - Duties: Develop a WebAssembly-based real-time streaming video decoding and object detection system
   - Involved Techs: WebAssembly, FFMpeg, OpenCV, Javascript, C++, Rust
 
@@ -99,17 +97,20 @@ redirect_from:
 
 ### Scholarship
 
-- 2021-2022, Scholarship for Academic Achievement
-- 2021-2022, Scholarship for Practical and Innovative Achievements
-- 2021-2022, Scholarship for Athletics
-- 2021-2022, Scholarship for Ethics and Morals
-- 2021-2022, Scholarship for Outstanding Students
-- 2020-2021, Scholarship for Academic Achievement
-- 2020-2021, Scholarship for Practical and Innovative Achievements
+- 2021-2022, Scholarship for Outstanding Students, ¥3000
+- 2021-2022, Scholarship for Academic Achievement, ¥800 
+- 2021-2022, Scholarship for Practical and Innovative Achievements, ¥1000
+- 2021-2022, Scholarship for Athletics, ¥800
+- 2021-2022, Scholarship for Ethics and Morals, ¥800
+- 2020-2021, Scholarship for Academic Achievement, ¥800
+- 2020-2021, Scholarship for Practical and Innovative Achievements, ¥1000
 
 ### Certificates
 
 - (2022.01, National) Position Competency Assessment Certicate of Industry and Information Technology Talents (Industrial Internet Platform Development Engineer - Intermediate - Ability Level 4) [[certificate](http://davidlee528.github.io/files/certificates/工业互联网工业互联网平台开发工程师中级.pdf)]
+
+
+<!-- ## Open-source Contribution -->
 
 <!-- ## Service and leadership -->
 <!-- * Currently signed in to 43 different slack teams -->
