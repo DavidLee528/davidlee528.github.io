@@ -24,9 +24,10 @@ News🎈
 ======
 ### Hot 
 
-- This site is incomplete now.
+- This website is currently under construction.
+- [2023/07/21] Paper 'Research on Real-time Early Warning Mechanism of Aviation Safety Based on Finite State Machine Underlying in QAR Stream Data' has been accepted by [BDIoT](http://www.bdiot.org/)'23.
 
-### Archieve
+### Archieved
 
 - [2023/07/15] David enabled `SSL` and enforced using `HTTPS` protocol to access this page.
 - [2023/07/13] David replaced origin domain name `davidlee528.github.io` with customized domain name `litianhao.life`. (Thanks free DNS resolution service from [Cloudflare](https://www.cloudflare.com/))

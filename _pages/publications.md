@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+## Papers
+
 {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Books
+
+{% for post in site.books reversed %}
   {% include archive-single.html %}
 {% endfor %}

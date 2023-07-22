@@ -11,28 +11,28 @@ redirect_from:
 
 ## Education
 
-- B.S. in Information Security, North China University of Technology, 2020-2024
+- B.Eng. in Information Security, North China University of Technology, 2020-2024
   - GPA: 3.87615, Grade: 90.4154, download my [transcript](https://litianhao.life/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
 
-## Work Experience
+## Research & Work Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- October 2022 - Present: High-Tech Innovation Laboratory
+  - Research Intern
+  - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. Ying Li
+- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd
+  - Develop Intern
+  - Duties: Develop a WebAssembly-based real-time streaming video decoding and object detection system
+  - Involved Techs: WebAssembly, FFMpeg, OpenCV, Javascript, C++, Rust
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 ## Skills & Knowledges
 
 ### Academic Related
 
-- I can write $\LaTeX$ in either [Overleaf](https://www.overleaf.com/) and local environment.
-- I know the process from writing to publication.
-
+- Acquired over two years of experience in utilizing $\LaTeX$, both in the [overleaf](https://www.overleaf.com/) platform and local environment.
+- High level of research aesthetic sense, skilled in figure design. 
+- Possess strong skills in both critical and creative thinking.
+- Possess excellent team working and communication skills and do not experience social phobia.
+  
 ### Engineering Related
 
 - Version control and team develop by `Git` or `SVN`
@@ -41,32 +41,20 @@ redirect_from:
   - Thorough comprehension of [Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
   - GNU Toolchain: gcc, g++, gdb, make
   - Other frequently used tools: CMake, Vim, Tmux, jupyter, etc.
-
-### Security Related
-
-- Asymmetric encryption
-- X3DH Protocol
-- Frequently used algorithm
-  - MD5, SHA-*, SM3
-  - DES, AES, Twofish, SM4
-  - RSA, SM2
-
-
-### Frameworks & Programming Languages
-
-- C / Modern C++
-- Python
-- Java
-- Assembly (x86)
-- PyTorch
-- Django
-- OpenSSL & GmSSL
+- Programming Languages
+  - C / Modern C++
+  - Python
+  - Java
+  - Assembly (x86)
+- Frameworks
+  - PyTorch
+  - Django
+  - OpenSSL & GmSSL
 
 ### CS Student Essentials
 
 - [RTFM](https://en.wikipedia.org/wiki/RTFM#:~:text=for%20the%20expression%20%22-,read%20the%20fucking%20manual,-%22%C2%A0%E2%80%93%20typically%20used%20to) & [STFW](https://www.urbandictionary.com/define.php?term=stfw#:~:text=Search%20the%20Fucking%20Web): Very solid, I can solve 99.9% problems by those methods.
-- Google Hacking
-- 
+- Solid information searching skill with [Google Hacking](https://en.wikipedia.org/wiki/Google_hacking) techniques.
 
 ### Miscellaneous
 
@@ -76,17 +64,15 @@ redirect_from:
     - CET-4, CET-6 and [IELTS-6.5](https://litianhao.life/files/certificates/ielts.pdf)
 - Driving
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
+## Talks
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Teaching
 ======
@@ -94,8 +80,38 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Honors and Awards
+
+### National Contests
+
+- (2023.04, National) First Prize🥇 in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[thesis](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
+- (2023.02, National) S Prize🏆 in 2023 Mathematical Contest In Modeling [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[thesis](https://davidlee528.github.io/files/contests/2320617.pdf)]
+- (2022.06, National) Winning Prize🏆 in [CISCN](http://www.ciscn.cn/) Security Project Contest
+- (2020.06, National) Third prize🥉 in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
+
+### Non-national Contests
+
+- (2023.06, Regional) Third Prize🥉 in [CISCN](http://www.ciscn.cn/) AWDP (Attack with Defense Plus) Contest
+- (2023.04, Provincial) First Prize🥇 in [Lanqiao](https://www.lanqiao.cn/) National Software and Information Technology Professional Talent Competition [[certificate](https://davidlee528.github.io/files/contests/14th_lq_p1.pdf)]
+- (2022.06, Regional) Third Prize🥉 in [CISCN](http://www.ciscn.cn/) CTF (Capture the Flag) Contest
+- (2022.04, Provincial) Bronze Award🥉 in the ”Youth Innovation Beijing” 2022 Challenge Cup Student Entrepreneurial Plan Competition
+- (2020.04, Provincial) First Prize🥇 in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest [[certificate](https://davidlee528.github.io/files/contests/12th_lq_p1.pdf)]
+
+### Scholarship
+
+- 2021-2022, Scholarship for Academic Achievement
+- 2021-2022, Scholarship for Practical and Innovative Achievements
+- 2021-2022, Scholarship for Athletics
+- 2021-2022, Scholarship for Ethics and Morals
+- 2021-2022, Scholarship for Outstanding Students
+- 2020-2021, Scholarship for Academic Achievement
+- 2020-2021, Scholarship for Practical and Innovative Achievements
+
+### Certificates
+
+- (2022.01, National) Position Competency Assessment Certicate of Industry and Information Technology Talents (Industrial Internet Platform Development Engineer - Intermediate - Ability Level 4) [[certificate](http://davidlee528.github.io/files/certificates/工业互联网工业互联网平台开发工程师中级.pdf)]
+
+<!-- ## Service and leadership -->
+<!-- * Currently signed in to 43 different slack teams -->
 
 [[Download PDF](https://litianhao.life/files/cv_david-lee.pdf)]

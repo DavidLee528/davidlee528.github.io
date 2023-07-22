@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## B.E. in Information Security (2020-2024)
+## B.Eng. in Information Security (2020-2024)
 
 - School of Information and High-tech Innovation Laboratory
 - North China University of Technology (NCUT), Beijing, China
