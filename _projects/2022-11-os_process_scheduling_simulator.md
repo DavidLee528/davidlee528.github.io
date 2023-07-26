@@ -32,4 +32,51 @@ Operating systems manage computer resources and provide services for application
 
 ## Details
 
+```
+.
+├── gantt_chart_drawer
+│   ├── draw_gantt_chart.py
+│   ├── fcfs.html
+│   ├── hrrn.html
+│   ├── rr.html
+│   └── sjf.html
+├── index.html
+├── process_scheduler_simulator
+│   ├── CMakeLists.txt
+│   ├── Doxygen.config
+│   ├── build
+│   ├── html
+│   ├── include
+│   │   ├── fcfs.hpp
+│   │   ├── hrrn.hpp
+│   │   ├── main.hpp
+│   │   ├── process.hpp
+│   │   ├── rr.hpp
+│   │   ├── sim.hpp
+│   │   ├── sjf.hpp
+│   │   └── test_case_path.hpp
+│   ├── latex
+│   ├── src
+│   │   ├── CMakeLists.txt
+│   │   ├── fcfs.cpp
+│   │   ├── hrrn.cpp
+│   │   ├── main.cpp
+│   │   ├── process.cpp
+│   │   ├── rr.cpp
+│   │   └── sjf.cpp
+│   └── test
+│       ├── CMakeLists.txt
+│       ├── test_fcfs.cpp
+│       ├── test_hrrn.cpp
+│       ├── test_rr.cpp
+│       └── test_sjf.cpp
+├── run.sh
+└── test_case.txt
+
+8 directories, 30 files
+```
+
+
 ## Download
+
+[[src](https://github.com/DavidLee528/code_school/tree/main/22-23-1/os/lab1_process-scheduler)]

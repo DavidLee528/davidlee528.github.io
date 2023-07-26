@@ -109,10 +109,13 @@ redirect_from:
 
 - (2022.01, National) Position Competency Assessment Certicate of Industry and Information Technology Talents (Industrial Internet Platform Development Engineer - Intermediate - Ability Level 4) [[certificate](http://davidlee528.github.io/files/certificates/工业互联网工业互联网平台开发工程师中级.pdf)]
 
+## Extracurricular Activities
 
-<!-- ## Open-source Contribution -->
+- Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel.
+- Road/Trail Running: I am 2023 [CHONGLI 168 ULTRA TRAIL](https://www.chongli-ultra.com/)(Biggest in Asia) DTC-100KM FINISHER🏆, gained 4 [ITRA](https://itra.run/) credits, see my [blog](https://litianhao.life/posts/2023/07/chongli168/).
+- Photography: Love wildlife photography.
+- Hiking: Aspire to climb Mt.Everest
+- Off-road Driving
 
-<!-- ## Service and leadership -->
-<!-- * Currently signed in to 43 different slack teams -->
 
-[[Download PDF](https://litianhao.life/files/cv_david-lee.pdf)]
+<!-- [[Download PDF](https://litianhao.life/files/cv_david-lee.pdf)] -->
