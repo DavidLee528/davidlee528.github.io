@@ -35,19 +35,10 @@ redirect_from:
 
 - Version control and team develop by `Git` or `SVN`
 - GNU/Linux
-  - Both CLI and GUI
-  - Thorough comprehension of [Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
-  - GNU Toolchain: gcc, g++, gdb, make
-  - Other frequently used tools: CMake, Vim, Tmux, jupyter, etc.
-- Programming Languages
-  - C / Modern C++
-  - Python
-  - Java
-  - Assembly (x86)
-- Frameworks
-  - PyTorch
-  - Django
-  - OpenSSL & GmSSL
+  - Can skilled use both CLI and GUI, have a thorough comprehension of [Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+  - Tools: gcc, g++, gdb, make, cmake, vim, tmux, jupyter, etc.
+- Programming Languages: C, Modern C++, Python, Java, Assembly (x86)
+- Frameworks: PyTorch, Django, OpenSSL, GmSSL
 
 ### CS Student Essentials
 
@@ -56,11 +47,9 @@ redirect_from:
 
 ### Miscellaneous
 
-- Language
-  - Native Mandarin
-  - Fluent professional English
-    - CET-4, CET-6 and [IELTS-6.5](https://litianhao.life/files/certificates/ielts.pdf)
-- Driving
+- Language: Native Mandarin, Fluent professional English (CET-4, CET-6 and [IELTS-6.5](https://litianhao.life/files/certificates/ielts.pdf))
+- Driving (Since September 2020)
+- Photography / Video Editing
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
