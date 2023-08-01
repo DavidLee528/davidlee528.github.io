@@ -102,7 +102,7 @@ redirect_from:
 
 *"Work hard, play hard."*
 
-- Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel.
+- Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel. I am 2023 TOP10🏆 racer in Thaiwoo GDL downhill racing.
 - Road/Trail Running: I am 2023 [CHONGLI 168 ULTRA TRAIL](https://www.chongli-ultra.com/)(Biggest in Asia) DTC-100KM FINISHER🏆, gained 4 [ITRA](https://itra.run/) credits, see my [blog](https://litianhao.life/posts/2023/07/chongli168/).
 - Photography: Love wildlife photography.
 - Hiking: Aspire to climb Mt.Everest
