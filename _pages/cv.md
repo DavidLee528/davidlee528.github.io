@@ -86,8 +86,8 @@ redirect_from:
 
 ### Scholarship
 
-- In 2021-2022 school year, I received scholarships for: <u>outstanding students</u> (¥3000), <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000), <u>athletics</u> (¥800), <u>ethics and morals</u> (¥800)
-- In 2020-2021 school year, I received scholarships for: <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000)
+- In 2021-2022 school year, I received scholarships for: <u>outstanding students</u> (¥3000), <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000), <u>athletics</u> (¥800), <u>ethics and morals</u> (¥800) from School of Information, North China University of Technology.
+- In 2020-2021 school year, I received scholarships for: <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000) from School of Information, North China University of Technology.
 
 ### Certificates
 
