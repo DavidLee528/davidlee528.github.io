@@ -96,8 +96,8 @@ redirect_from:
 ## Open Source Activities
 
 - I am contributor of [OpenGait](https://github.com/ShiqiYu/OpenGait)(⭐460+stars, 🔱110+forks, CVPR'23) and [All-in-One-Gait](https://github.com/jdyjjj/All-in-One-Gait)(⭐23+stars, 🔱6+forks)
-- I am maintainer of [OpenNCUT](https://github.com/DavidLee528/OpenNCUT), [VigenereCracker](https://github.com/DavidLee528/VigenereCracker), [simple_ram_fs](https://github.com/DavidLee528/simple_ram_fs), [Histogram-Equalization-Specification-Demo](https://github.com/DavidLee528/Histogram-Equalization-Specification-Demo) and [DES_cpp_demo](https://github.com/DavidLee528/DES_cpp_demo). 
-- I am code reviewer of [academicpages](https://github.com/academicpages/academicpages.github.io)(⭐8500+stars, 🔱30500+forks)
+- I am owner of [OpenNCUT](https://github.com/DavidLee528/OpenNCUT), [VigenereCracker](https://github.com/DavidLee528/VigenereCracker), [simple_ram_fs](https://github.com/DavidLee528/simple_ram_fs), [Histogram-Equalization-Specification-Demo](https://github.com/DavidLee528/Histogram-Equalization-Specification-Demo) and [DES_cpp_demo](https://github.com/DavidLee528/DES_cpp_demo). 
+- I am reviewer of [academicpages](https://github.com/academicpages/academicpages.github.io)(⭐8500+stars, 🔱30500+forks)
 
 
 
@@ -107,9 +107,9 @@ redirect_from:
 
 - Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel. I am 2023 TOP10🏆 racer in Thaiwoo GDL downhill racing.
 - Road/Trail Running: I am 2023 [CHONGLI 168 ULTRA TRAIL](https://www.chongli-ultra.com/)(Biggest in Asia) DTC-100KM FINISHER🏆, gained 4 [ITRA](https://itra.run/) credits, see my [blog](https://litianhao.life/posts/2023/07/chongli168/).
-- Photography: Love wildlife photography.
-- Hiking: Aspire to climb Mt.Everest
-- Off-road Driving
+- Photography: Love wildlife photography, see portfolio.
+- Hiking: Aspire to climb Mt.Everest, see related blogs. 
+- Off-road Driving, see related blogs.
 
 
 <!-- [[Download PDF](https://litianhao.life/files/cv_david-lee.pdf)] -->
