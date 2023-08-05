@@ -71,18 +71,18 @@ redirect_from:
 
 ### National Contests
 
-- (2023.04, National) First Prize🥇 in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[thesis](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
-- (2023.02, National) S Prize🏆 in 2023 Mathematical Contest In Modeling [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[thesis](https://davidlee528.github.io/files/contests/2320617.pdf)]
-- (2022.06, National) Winning Prize🏆 in [CISCN](http://www.ciscn.cn/) Security Project Contest
-- (2020.06, National) Third prize🥉 in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
+- (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
+- (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
+- (2022.06, National) Winning Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆
+- (2020.06, National) Third prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
 
 ### Non-national Contests
 
-- (2023.06, Regional) Third Prize🥉 in [CISCN](http://www.ciscn.cn/) AWDP (Attack with Defense Plus) Contest
-- (2023.04, Provincial) First Prize🥇 in [Lanqiao](https://www.lanqiao.cn/) National Software and Information Technology Professional Talent Competition [[certificate](https://davidlee528.github.io/files/contests/14th_lq_p1.pdf)]
-- (2022.06, Regional) Third Prize🥉 in [CISCN](http://www.ciscn.cn/) CTF (Capture the Flag) Contest
-- (2022.04, Provincial) Bronze Award🥉 in the ”Youth Innovation Beijing” 2022 Challenge Cup Student Entrepreneurial Plan Competition
-- (2020.04, Provincial) First Prize🥇 in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest [[certificate](https://davidlee528.github.io/files/contests/12th_lq_p1.pdf)]
+- (2023.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) AWDP (Attack with Defense Plus) Contest 🥉
+- (2023.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) National Software and Information Technology Professional Talent Competition 🥇 [[certificate](https://davidlee528.github.io/files/contests/14th_lq_p1.pdf)]
+- (2022.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) CTF (Capture the Flag) Contest 🥉
+- (2022.04, Provincial) Bronze Award in the ”Youth Innovation Beijing” 2022 Challenge Cup Student Entrepreneurial Plan Competition 🥉
+- (2020.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥇 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_p1.pdf)]
 
 ### Scholarship
 
