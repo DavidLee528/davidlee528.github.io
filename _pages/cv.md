@@ -86,13 +86,8 @@ redirect_from:
 
 ### Scholarship
 
-- 2021-2022, Scholarship for Outstanding Students, ¥3000
-- 2021-2022, Scholarship for Academic Achievement, ¥800 
-- 2021-2022, Scholarship for Practical and Innovative Achievements, ¥1000
-- 2021-2022, Scholarship for Athletics, ¥800
-- 2021-2022, Scholarship for Ethics and Morals, ¥800
-- 2020-2021, Scholarship for Academic Achievement, ¥800
-- 2020-2021, Scholarship for Practical and Innovative Achievements, ¥1000
+- In 2021-2022 school year, I received scholarships for: <u>outstanding students</u> (¥3000), <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000), <u>athletics</u> (¥800), <u>ethics and morals</u> (¥800)
+- In 2020-2021 school year, I received scholarships for: <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000)
 
 ### Certificates
 
