@@ -73,7 +73,7 @@ redirect_from:
 
 - (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
 - (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
-- (2022.06, National) Winning Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆
+- (2022.06, National) Winning Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides.pdf)]
 - (2020.06, National) Third prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
 
 ### Non-national Contests
@@ -106,7 +106,7 @@ redirect_from:
 
 *"Work hard, play hard."*
 
-- Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel. I am 2023 TOP10🏆 racer in Thaiwoo GDL downhill racing.
+- Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel. I am 2023 TOP10🏆 racer in GDL Thaiwoo downhill racing.
 - Road/Trail Running: I am 2023 [CHONGLI 168 ULTRA TRAIL](https://www.chongli-ultra.com/)(Biggest in Asia) DTC-100KM FINISHER🏆, gained 4 [ITRA](https://itra.run/) credits, see my [blog](https://litianhao.life/posts/2023/07/chongli168/).
 - Photography: Love wildlife photography, see portfolio.
 - Hiking: Aspire to climb Mt.Everest, see related blogs. 
