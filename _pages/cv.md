@@ -16,7 +16,8 @@ redirect_from:
 
 ## Research & Work Experience
 
-- October 2022 - Present: High-Tech Innovation Laboratory *(Research Intern)*
+- June 2023 - Augest 2023: China Telecommunications Group Co.,Ltd *(Data Science Intern)*
+- October 2022 - June 2023: High-Tech Innovation Laboratory, NCUT *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. Ying Li
 - January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Develop Intern)*
   - Duties: Develop a WebAssembly-based real-time streaming video decoding and object detection system
@@ -71,6 +72,7 @@ redirect_from:
 
 ### National Contests
 
+- (2023.08, National) (?) Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest
 - (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
 - (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
 - (2022.06, National) Winning Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides..pdf)]
