@@ -118,6 +118,7 @@ redirect_from:
 - Photography: Love wildlife photography, see portfolio.
 - Hiking: Aspire to climb Mt.Everest, see related blogs. 
 - Off-road Driving, see related blogs.
+- Voluntary service, more than 380 hours (As of July 2023)
 
 
 <!-- [[Download PDF](https://litianhao.life/files/cv_david-lee.pdf)] -->
