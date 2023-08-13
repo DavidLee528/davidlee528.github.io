@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 - B.Eng. in Information Security, North China University of Technology, 2020-2024
-  - GPA: 3.87615, Grade: 90.4154, download my [transcript](https://litianhao.life/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
+  - GPA: 3.87615, Grade: 90.4154, Download my [transcript](https://litianhao.life/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
 
 ## Research & Work Experience
 
