@@ -17,8 +17,8 @@ redirect_from:
 ## Research & Work Experience
 
 - June 2023 - August 2023: China Telecommunications Group Co.,Ltd *(Data Science Intern)*
-- October 2022 - June 2023: High-Tech Innovation Laboratory, NCUT *(Research Intern)*
-  - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. Ying Li
+- October 2022 - June 2023: High-Tech Innovation Institute, NCUT *(Research Intern)*
+  - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. [Ying Li](mailto:liying4590@gmail.com)
 - January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Develop Intern)*
   - Duties: Develop a WebAssembly-based real-time streaming video decoding and object detection system
   - Involved Techs: WebAssembly, FFMpeg, OpenCV, Javascript, C++, Rust
