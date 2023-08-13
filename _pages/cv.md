@@ -97,7 +97,9 @@ redirect_from:
 
 ### Certificates
 
-- (2022.01, National) Position Competency Assessment Certicate of Industry and Information Technology Talents (Industrial Internet Platform Development Engineer - Intermediate - Ability Level 4) [[certificate](http://davidlee528.github.io/files/certificates/工业互联网工业互联网平台开发工程师中级.pdf)]
+- Certificate of completion of artificial intelligence course from <u>China Computer Federation (CCF)</u> [[certificate](http://davidlee528.github.io/files/certificates/CCF-CERT-SC-2023-00084.pdf)]
+- Certificate of oral presentation of 2023 7th International Conference on Big Data and Internet of Things (BDIoT'23) from <u>BDIoT'23 conference committees</u> [[certificate](http://davidlee528.github.io/files/certificates/BDIoT'23_certificate_of_presentation.pdf)]
+- Position Competency Assessment Certificate of Industry and Information Technology Talents (Industrial Internet Platform Development Engineer - Intermediate - Ability Level 4) from <u>Ministry of Industry and Information Technology of the People's Republic of China</u> [[certificate](http://davidlee528.github.io/files/certificates/工业互联网工业互联网平台开发工程师中级.pdf)]
 
 ## Open Source Activities
 
