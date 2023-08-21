@@ -16,12 +16,12 @@ redirect_from:
 
 ## Research & Work Experience
 
-- June 2023 - August 2023: China Telecommunications Group Co.,Ltd *([IT and Technology Research and Development Intern](https://litianhao.life/files/cv/202307_internship_certificate.pdf))*
+- June 2023 - August 2023: China Telecommunications Group Co.,Ltd *([Research and Development Intern](https://litianhao.life/files/cv/202307_internship_certificate.pdf))*
   - Duty: Data Analysis
 - October 2022 - June 2023: High-Tech Innovation Institute, NCUT *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. [Ying Li](mailto:liying4590@gmail.com)
   - Duty: Research on lightweight metahuman generator
-- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Develop Intern)*
+- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Development Intern)*
   - Duty: Develop a WebAssembly-based real-time streaming video decoding and object detection system
   - Involved Techs: WebAssembly, FFMpeg, OpenCV, Javascript, C++, Rust
 
