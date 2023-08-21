@@ -16,11 +16,13 @@ redirect_from:
 
 ## Research & Work Experience
 
-- June 2023 - August 2023: China Telecommunications Group Co.,Ltd *(Data Science Intern)*
+- June 2023 - August 2023: China Telecommunications Group Co.,Ltd *([IT and Technology Research and Development Intern](https://litianhao.life/files/cv/202307_internship_certificate.pdf))*
+  - Duty: Data Analysis
 - October 2022 - June 2023: High-Tech Innovation Institute, NCUT *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. [Ying Li](mailto:liying4590@gmail.com)
+  - Duty: Research on lightweight metahuman generator
 - January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Develop Intern)*
-  - Duties: Develop a WebAssembly-based real-time streaming video decoding and object detection system
+  - Duty: Develop a WebAssembly-based real-time streaming video decoding and object detection system
   - Involved Techs: WebAssembly, FFMpeg, OpenCV, Javascript, C++, Rust
 
 ## Skills & Knowledges
@@ -28,9 +30,9 @@ redirect_from:
 ### Academic Related
 
 - Acquired over two years of experience in utilizing $\LaTeX$, both in the [overleaf](https://www.overleaf.com/) platform and local environment.
-- High level of research aesthetic sense, skilled in figure design. 
-- Possess strong skills in both critical and creative thinking.
-- Possess excellent team working and communication skills and do not experience social phobia.
+<!-- - High level of research aesthetic sense, skilled in figure design.  -->
+<!-- - Possess strong skills in both critical and creative thinking. -->
+<!-- - Possess excellent team working and communication skills and do not experience social phobia. -->
   
 ### Engineering Related
 
@@ -41,10 +43,10 @@ redirect_from:
 - Programming Languages: C, Modern C++, Python, Java, Assembly (x86)
 - Frameworks: PyTorch, Django, OpenSSL, GmSSL
 
-### CS Student Essentials
+<!-- ### CS Student Essentials -->
 
-- [RTFM](https://en.wikipedia.org/wiki/RTFM#:~:text=for%20the%20expression%20%22-,read%20the%20fucking%20manual,-%22%C2%A0%E2%80%93%20typically%20used%20to) & [STFW](https://www.urbandictionary.com/define.php?term=stfw#:~:text=Search%20the%20Fucking%20Web): Very solid, I can solve 99.9% problems by those methods.
-- Solid information searching skill with [Google Hacking](https://en.wikipedia.org/wiki/Google_hacking) techniques.
+<!-- - [RTFM](https://en.wikipedia.org/wiki/RTFM#:~:text=for%20the%20expression%20%22-,read%20the%20fucking%20manual,-%22%C2%A0%E2%80%93%20typically%20used%20to) & [STFW](https://www.urbandictionary.com/define.php?term=stfw#:~:text=Search%20the%20Fucking%20Web): Very solid, I can solve 99.9% problems by those methods. -->
+<!-- - Solid information searching skill with [Google Hacking](https://en.wikipedia.org/wiki/Google_hacking) techniques. -->
 
 ### Miscellaneous
 
@@ -72,11 +74,11 @@ redirect_from:
 
 ### National Contests
 
-- (2023.08, National) (?) Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest
+- (2023.08, National) Third Prize in 16th [CISCN](http://www.ciscn.cn/) Security Project Contest 🥉 [[report](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_REPORT.pdf)][[slide](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_SLIDE.pdf)][[demo](https://www.bilibili.com/video/BV1W841197Vn)]
 - (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
 - (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
-- (2022.06, National) Winning Prize in [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides..pdf)]
-- (2020.06, National) Third prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
+- (2022.06, National) Winning Prize in 15th [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides..pdf)]
+- (2020.06, National) Third prize in 12th [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
 
 ### Non-national Contests
 
