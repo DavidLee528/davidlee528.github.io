@@ -21,7 +21,7 @@ redirect_from:
 - October 2022 - June 2023: High-Tech Innovation Institute, NCUT *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. [Ying Li](mailto:liying4590@gmail.com)
   - Duty: Research on lightweight metahuman generator
-- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(Development Intern)*
+- January 2022 - March 2022: Guangzhou Chenchuang Technology Development Co.,Ltd *(C++ Software Development Intern)*
   - Duty: Develop a WebAssembly-based real-time streaming video decoding and object detection system
   - Involved Techs: WebAssembly, FFMpeg, OpenCV, Javascript, C++, Rust
 
@@ -77,7 +77,7 @@ redirect_from:
 - (2023.08, National) Third Prize in 16th [CISCN](http://www.ciscn.cn/) Security Project Contest 🥉 [[report](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_REPORT.pdf)][[slide](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_SLIDE.pdf)][[demo](https://www.bilibili.com/video/BV1W841197Vn)]
 - (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
 - (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
-- (2022.06, National) Winning Prize in 15th [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides..pdf)]
+- (2022.06, National) Winning Prize in 15th [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides.pdf)]
 - (2020.06, National) Third prize in 12th [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
 
 ### Non-national Contests
