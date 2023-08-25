@@ -83,7 +83,7 @@ redirect_from:
 ### Non-national Contests
 
 - (2023.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) AWDP *(Attack with Defense Plus)* Contest 🥉
-- (2023.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) National Software and Information Technology Professional Talent Competition 🥇 [[certificate](https://davidlee528.github.io/files/contests/14th_lq_p1.pdf)]
+- (2023.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥇 [[certificate](https://davidlee528.github.io/files/contests/14th_lq_p1.pdf)] 
 - (2022.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) CTF *(Capture the Flag)* Contest 🥉
 - (2022.04, Provincial) Bronze Award in the "Young Entrepreneur in Beijing" 2022 Challenge Cup Student Entrepreneurial Plan Competition 🥉
 - (2022.04, Provincial) Third Prize in [Datang](https://www.saikr.com/vse/43777) National Student Mobile Communication 5G Technology Competition 🥉
