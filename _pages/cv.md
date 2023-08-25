@@ -91,13 +91,13 @@ redirect_from:
 
 ### Scholarship
 
-- In 2022-2023 school year, I received scholarships for <u>outstanding students</u> (¥5000), <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000), <u>athletics</u> (¥1000), <u>ethics and morals</u> (¥1000) from School of Information, North China University of Technology.
+- (2022-2023) Received scholarships for <u>outstanding students</u>, <u>academic</u>, <u>innovation</u>, <u>athletes</u>, <u>moral</u>, ¥8800 in total.
   
-- In 2021-2022 school year, I received scholarships for <u>outstanding students</u> (¥3000), <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000), <u>athletics</u> (¥800), <u>ethics and morals</u> (¥800) from School of Information, North China University of Technology.
+- (2021-2022) Received scholarships for <u>outstanding students</u>, <u>academic</u>, <u>innovation</u>, <u>athletes</u>, <u>moral</u>, ¥6600 in total. 
   
-- In 2020-2021 school year, I received scholarships for <u>academic achievement</u> (¥800), <u>innovative achievements</u> (¥1000) from School of Information, North China University of Technology.
+- (2020-2021) Received scholarships for <u>academic</u>, <u>innovation</u>, ¥1800 in total.
 
-### Certificates
+## Certificates
 
 - Certificate of completion of artificial intelligence course from <u>China Computer Federation (CCF)</u> [[certificate](http://davidlee528.github.io/files/certificates/CCF-CERT-SC-2023-00084.pdf)]
 - Certificate of oral presentation of 2023 7th International Conference on Big Data and Internet of Things (BDIoT'23) from <u>BDIoT'23 conference committees</u> [[certificate](http://davidlee528.github.io/files/certificates/BDIoT'23_certificate_of_presentation.pdf)]
