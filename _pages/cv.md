@@ -123,4 +123,8 @@ redirect_from:
 - Voluntary service, more than 380 hours (As of July 2023)
 
 
-<!-- [[Download PDF](https://litianhao.life/files/cv_david-lee.pdf)] -->
+## Download my CV in pdf format
+
+- For Chinese Version: [[cv-ch-tianhaoli.pdf](https://litianhao.life/files/cv/cv-ch-tianhaoli.pdf)]
+- For English Version: [[cv-en-tianhaoli.pdf](https://litianhao.life/files/cv/cv-en-tianhaoli.pdf)]
+- For Bilingual Version: [[cv-bilingual-tianhaoli.pdf](https://litianhao.life/files/cv/cv-bilingual-tianhaoli.pdf)]
