@@ -78,7 +78,7 @@ redirect_from:
 - (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
 - (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
 - (2022.06, National) Winning Prize in 15th [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides.pdf)]
-- (2020.06, National) Third prize in 12th [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
+- (2021.06, National) Third prize in 12th [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_n3.pdf)]
 
 ### Non-national Contests
 
@@ -87,7 +87,7 @@ redirect_from:
 - (2022.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) CTF *(Capture the Flag)* Contest 🥉
 - (2022.04, Provincial) Bronze Award in the "Young Entrepreneur in Beijing" 2022 Challenge Cup Student Entrepreneurial Plan Competition 🥉
 - (2022.04, Provincial) Third Prize in [Datang](https://www.saikr.com/vse/43777) National Student Mobile Communication 5G Technology Competition 🥉
-- (2020.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥇 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_p1.pdf)]
+- (2021.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥇 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_p1.pdf)]
 
 ### Scholarship
 
