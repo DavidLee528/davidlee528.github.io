@@ -84,7 +84,7 @@ redirect_from:
 
 - (2023.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) AWDP *(Attack with Defense Plus)* Contest 🥉
 - (2023.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥇 [[certificate](https://davidlee528.github.io/files/contests/14th_lq_p1.pdf)] 
-- (2022.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) CTF *(Capture the Flag)* Contest 🥉
+- (2022.06, Regional) Third Prize in [CISCN](http://www.ciscn.cn/) CTF *(Capture the Flag)* Contest [[certificate](https://davidlee528.github.io/files/contests/15th_ciscnctf_r3.pdf)] 🥉
 - (2022.04, Provincial) Bronze Award in the "Young Entrepreneur in Beijing" 2022 Challenge Cup Student Entrepreneurial Plan Competition 🥉
 - (2022.04, Provincial) Third Prize in [Datang](https://www.saikr.com/vse/43777) National Student Mobile Communication 5G Technology Competition 🥉
 - (2021.04, Provincial) First Prize in [Lanqiao](https://www.lanqiao.cn/) Software Development and Algorithm Contest 🥇 [[certificate](https://davidlee528.github.io/files/contests/12th_lq_p1.pdf)]
@@ -123,7 +123,7 @@ redirect_from:
 - Voluntary service, more than 380 hours (As of July 2023)
 
 
-## Download my CV in pdf format
+## Download my CV in PDF format
 
 - For Chinese Version: [[cv-ch-tianhaoli.pdf](https://litianhao.life/files/cv/cv-ch-tianhaoli.pdf)]
 - For English Version: [[cv-en-tianhaoli.pdf](https://litianhao.life/files/cv/cv-en-tianhaoli.pdf)]
