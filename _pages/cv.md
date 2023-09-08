@@ -74,7 +74,7 @@ redirect_from:
 
 ### National Contests
 
-- (2023.08, National) Third Prize in 16th [CISCN](http://www.ciscn.cn/) Security Project Contest 🥉 [[report](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_REPORT.pdf)][[slide](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_SLIDE.pdf)][[demo](https://www.bilibili.com/video/BV1W841197Vn)]
+- (2023.08, National) Third Prize in 16th [CISCN](http://www.ciscn.cn/) Security Project Contest 🥉 [[certificate](https://davidlee528.github.io/files/contests/16th_infosecproj_n3.pdf)][[report](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_REPORT.pdf)][[slide](https://davidlee528.github.io/files/contests/2023_CISCN_FINAL_SLIDE.pdf)][[demo](https://www.bilibili.com/video/BV1W841197Vn)]
 - (2023.04, National) First Prize in The 13th [MathorCup](http://www.mathorcup.org/) Collegiate Mathematical Modeling Challenge 2023 🥇 [[certificate](https://davidlee528.github.io/files/contests/2023_mathorcup.pdf)][[paper](https://davidlee528.github.io/files/contests/DMC2302585.pdf)]
 - (2023.02, National) S Prize in 2023 Mathematical Contest In Modeling 🏆 [[certificate](https://davidlee528.github.io/files/contests/2023_mcm_s.pdf)][[paper](https://davidlee528.github.io/files/contests/2320617.pdf)]
 - (2022.06, National) Winning Prize in 15th [CISCN](http://www.ciscn.cn/) Security Project Contest 🏆 [[certificate](https://davidlee528.github.io/files/contests/2022_infosecproj_w.pdf)][[report](https://davidlee528.github.io/files/contests/2022_infosecproj_report.pdf)][[slide](https://davidlee528.github.io/files/contests/2022_infosecproj_slides.pdf)]
