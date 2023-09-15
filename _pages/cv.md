@@ -12,11 +12,12 @@ redirect_from:
 ## Education
 
 - B.Eng. in Information Security, North China University of Technology, 2020-2024
-  - GPA: 3.87615, Grade: 90.4154, Download my [transcript](https://litianhao.life/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
+  - GPA: 3.88, Grade: 90.69, Download my [transcript](https://litianhao.life/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
 
 ## Research & Work Experience
 
-- June 2023 - August 2023: China Telecommunications Group Co.,Ltd *([Research and Development Intern](https://litianhao.life/files/cv/202307_internship_certificate.pdf))*
+- September 2023 - Now: NSFOCUS Technologies Group Co.,Ltd *Security Research Intern*
+- July 2023 - September 2023: China Telecommunications Group Co.,Ltd *([Research and Development Intern](https://litianhao.life/files/cv/202307_internship_certificate.pdf))*
   - Duty: Data Analysis
 - October 2022 - June 2023: High-Tech Innovation Institute, NCUT *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. [Ying Li](mailto:liying4590@gmail.com)
