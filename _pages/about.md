@@ -14,7 +14,7 @@ Hi there! My name is Tianhao Li, also known as David Lee, and I am currently an 
 
 Research Interests
 ======
-My research interests lie in the fields of Information Security, AI For Security, Multimedia Security, and other areas of computer science that pertain to security.
+My research interests lie in the fields of Trustworthy AI, Gait Recognition, AI For Security, Multimedia Security, and other areas of computer science that pertain to security.
 
 Enroll Me
 ======
