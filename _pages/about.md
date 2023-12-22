@@ -10,7 +10,7 @@ redirect_from:
 
 Brief Biography
 ======
-Greetings! I'm Tianhao Li, an undergraduate student at North China University of Technology in Beijing, where I am pursuing a B.Eng degree in Information Security. Currently, I am gaining practical experience as an security research intern at Dubhe Lab, NSFOCUS.
+Greetings! I'm Tianhao Li, an undergraduate student at North China University of Technology in Beijing, where I am pursuing a B.Eng degree in Information Security. Currently, I am gaining practical experience as an security research intern at Dubhe Lab, NSFOCUS. I am seeking opportunities for a Ph.D. position or a research-oriented master's program as my initial step into academia.
 
 Research Interests
 ======
