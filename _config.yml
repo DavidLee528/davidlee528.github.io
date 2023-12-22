@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David's Homepage"
+title                    : "Tianhao's Homepage"
 title_separator          : "-"
 name                     : &name "Tianhao Li"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Tianhao Li"
   avatar           : "profile.png"
-  bio              : "IEEE Student Member<br>Also known as David Lee"
+  bio              : "IEEE Student Member"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tianhaoli0x01/"
   orcid            : "https://orcid.org/0009-0006-6362-3135"
   pinterest        :
   soundcloud       :

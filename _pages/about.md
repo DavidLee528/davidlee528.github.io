@@ -14,7 +14,6 @@ Greetings! I'm Tianhao Li, an undergraduate student at North China University of
 
 Research Interests
 ======
-<!-- My research interests lie in the fields of Trustworthy AI, Gait Recognition, AI For Security, Multimedia Security, and other areas of computer science that pertain to security. -->
 - **Trustworthy AI**: Addressing Security, Privacy, and Fairness as Inherent Challenges in AI Applications
   - Li, Bo, et al. "Trustworthy AI: From principles to practices." ACM Computing Surveys 55.9 (2023): 1-46.
   - Kaur, Davinder, et al. "Trustworthy artificial intelligence: a review." ACM Computing Surveys (CSUR) 55.2 (2022): 1-38.
