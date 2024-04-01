@@ -41,7 +41,7 @@ I'm a Security Researcher at Coordinate Lab, [TOPSEC](https://www.topsecgroup.co
         }
         .company-info {
             flex-grow: 1;
-            line-height: 0.5;
+            line-height: 1;
         }
     </style>
 </head>
@@ -50,42 +50,45 @@ I'm a Security Researcher at Coordinate Lab, [TOPSEC](https://www.topsecgroup.co
 <div class="experience">
     <img src="https://litianhao.life/files/cv/topsec.png" alt="TOPSEC" class="logo">
     <div class="company-info">
-        <h3>TOPSEC</h3><br>
+        <h3>TOPSEC</h3>
         <p>Security Researcher @ Coordinate Lab</p>
-        <p>March 2024 - Present</p>
+        <p style="line-height:5%">March 2024 - Present</p>
     </div>
 </div>
 
 <div class="experience">
     <img src="https://litianhao.life/files/cv/nsfocus.jpg" alt="NSFOCUS" class="logo">
     <div class="company-info">
-        <h3>NSFOCUS</h3><br>
+        <h3>NSFOCUS</h3>
         <p>Security Research Intern @ Dubhe Lab</p>
-        <p>September 2023 - March 2024</p>
+        <p style="line-height:5%">September 2023 - March 2024</p>
     </div>
 </div>
 
 <div class="experience">
     <img src="https://litianhao.life/files/cv/chinatelecom.png" alt="CHINATELECOM" class="logo">
     <div class="company-info">
-        <h3>China Telecom</h3><br>
-        <p>Data Analysis Intern @ Integration And Software Development Center</p><p>July 2023 - September 2023</p>
+        <h3>China Telecom</h3>
+        <p>Data Analysis Intern @ Integration And Software Development Center</p>
+        <p style="line-height:5%">July 2023 - September 2023</p>
     </div>
 </div>
 
 <div class="experience">
     <img src="https://litianhao.life/files/cv/ncut.jpg" alt="NCUT" class="logo">
     <div class="company-info">
-        <h3>High-tech Innovation Institute</h3><br>
-        <p>Research Intern @ VR & AR Technology Innovation Center</p><p>July 2022 - July 2023</p>
+        <h3>High-tech Innovation Institute</h3>
+        <p>Research Intern @ VR & AR Technology Innovation Center</p>
+        <p style="line-height:5%">July 2022 - July 2023</p>
     </div>
 </div>
 
 <div class="experience">
     <img src="https://litianhao.life/files/cv/chenchuang.jpg" alt="CHENCHUANG" class="logo">
     <div class="company-info">
-        <h3>Chenchuang Technology</h3><br>
-        <p>C++ Software Development Intern @ Technical Development Department</p><p>January 2022 - March 2022</p>
+        <h3>Chenchuang Technology</h3>
+        <p>C++ Software Development Intern @ Technical Development Department</p>
+        <p style="line-height:5%">January 2022 - March 2022</p>
     </div>
 </div>
 
