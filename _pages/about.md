@@ -8,11 +8,101 @@ redirect_from:
   - /about.html
 ---
 
-Brief Biography
-======
-Greetings! I'm Tianhao Li, an undergraduate student at North China University of Technology in Beijing, where I am pursuing a B.Eng degree in Information Security. Currently, I am gaining practical experience as an security research intern at Dubhe Lab, NSFOCUS. I am seeking opportunities for a Ph.D. position or a research-oriented master's program as my initial step into academia.
+## Biography
+<!-- ====== -->
+<!-- Greetings! I'm Tianhao Li, an undergraduate student at North China University of Technology in Beijing, where I am pursuing a B.Eng degree in Information Security. Currently, I am gaining practical experience as an security research intern at Dubhe Lab, NSFOCUS. I am seeking opportunities for a Ph.D. position or a research-oriented master's program as my initial step into academia. -->
 
-Research Interests
+<!-- I'm a security researcher at Coordinate Lab, [TopSec](https://www.topsecgroup.com/). My research focus on LLM security and AI red teaming. Prior to this, I received B.Eng. degree from North China University of Technology. During my undergraduate, I was security research intern at Dubhe Lab, [NSFOCUS](https://nsfocusglobal.com/). And I have authored 7 SCI/EI-indexed papers, 3 of which are as the first author. -->
+
+I'm a Security Researcher at Coordinate Lab, [TOPSEC](https://www.topsecgroup.com/), specializing in LLM security and AI red teaming. I will receive my B.Eng. degree from North China University of Technology. During undergraduate, I also served as a Security Research Intern at Dubhe Lab, [NSFOCUS](https://nsfocusglobal.com/). Throughout my academic journey, I have authored 7 SCI/EI-indexed papers, with 3 of them being as the first author.
+
+## Research Interests
+<!-- ====== -->
+- Trustworthy Machine Learning
+- AI Red Teaming
+- Biometrics Recognition
+
+## Experience
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Experience</title>
+    <style>
+        .experience {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .logo {
+            width: 100px; /* Adjust size as needed */
+            height: auto;
+            margin-right: 50px;
+        }
+        .company-info {
+            flex-grow: 1;
+            line-height: 0.5;
+        }
+    </style>
+</head>
+<body>
+
+<div class="experience">
+    <img src="https://litianhao.life/files/cv/topsec.png" alt="TOPSEC" class="logo">
+    <div class="company-info">
+        <h3>TOPSEC</h3><br>
+        <p>Security Researcher @ Coordinate Lab</p>
+        <p>March 2024 - Present</p>
+    </div>
+</div>
+
+<div class="experience">
+    <img src="https://litianhao.life/files/cv/nsfocus.jpg" alt="NSFOCUS" class="logo">
+    <div class="company-info">
+        <h3>NSFOCUS</h3><br>
+        <p>Security Research Intern @ Dubhe Lab</p>
+        <p>September 2023 - March 2024</p>
+    </div>
+</div>
+
+<div class="experience">
+    <img src="https://litianhao.life/files/cv/chinatelecom.png" alt="CHINATELECOM" class="logo">
+    <div class="company-info">
+        <h3>China Telecom</h3><br>
+        <p>Data Analysis Intern @ Integration And Software Development Center</p><p>July 2023 - September 2023</p>
+    </div>
+</div>
+
+<div class="experience">
+    <img src="https://litianhao.life/files/cv/ncut.jpg" alt="NCUT" class="logo">
+    <div class="company-info">
+        <h3>High-tech Innovation Institute</h3><br>
+        <p>Research Intern @ VR & AR Technology Innovation Center</p><p>July 2022 - July 2023</p>
+    </div>
+</div>
+
+<div class="experience">
+    <img src="https://litianhao.life/files/cv/chenchuang.jpg" alt="CHENCHUANG" class="logo">
+    <div class="company-info">
+        <h3>Chenchuang Technology</h3><br>
+        <p>C++ Software Development Intern @ Technical Development Department</p><p>January 2022 - March 2022</p>
+    </div>
+</div>
+
+<!-- <div class="experience">
+    <img src="https://litianhao.life/files/cv/nsfocus.jpg" alt="NSFOCUS" class="logo">
+    <div class="company-info">
+        <h3>High-tech Innovation Institute, NCUT</h3>
+        <p>Research Intern, July 2022 - July 2023</p>
+    </div>
+</div> -->
+
+<!-- Add more experiences as needed -->
+
+</body>
+</html>
+
+<!-- Research Interests
 ======
 - **Trustworthy AI**: Addressing Security, Privacy, and Fairness as Inherent Challenges in AI Applications
   - Li, Bo, et al. "Trustworthy AI: From principles to practices." ACM Computing Surveys 55.9 (2023): 1-46.
@@ -22,7 +112,7 @@ Research Interests
   - Sarker, Iqbal H., Md Hasan Furhad, and Raza Nowrozy. "Ai-driven cybersecurity: an overview, security intelligence modeling and research directions." SN Computer Science 2 (2021): 1-18.
 - **Gait Recognition**: Trying to enhance the identification and authentication processes based on gait feature, i.e., unique walking pattern of every individual.
   - Sepas-Moghaddam, Alireza, and Ali Etemad. "Deep gait recognition: A survey." IEEE transactions on pattern analysis and machine intelligence 45.1 (2022): 264-284.
-  - Shen, Chuanfu, et al. "A comprehensive survey on deep gait recognition: algorithms, datasets and challenges." arXiv preprint arXiv:2206.13732 (2022).
+  - Shen, Chuanfu, et al. "A comprehensive survey on deep gait recognition: algorithms, datasets and challenges." arXiv preprint arXiv:2206.13732 (2022). -->
 
 <!-- <div class="comment">
   [system](#error_state)
