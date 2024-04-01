@@ -1,5 +1,5 @@
 ---
-title: "Non-intrusive Identity Authentication System Based on Gait Recognition"
+title: "Gait-based Intelligence, Surveillance, Reconnaissance (ISR) System"
 collection: projects
 excerpt: "<img width=800 src='./projects_banner/2023-05-gait_recognition.jpg'>"
 date: 2023-05-12
