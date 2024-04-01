@@ -13,7 +13,7 @@ main:
     url: /talks/
 
   - title: "Curriculum Vitae"
-    url: /cv/
+    url: https://litianhao.life/files/cv/cv-bilingual-tianhaoli.pdf
 
   - title: "Blog"
     url: /year-archive/
