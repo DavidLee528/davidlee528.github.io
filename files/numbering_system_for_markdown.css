@@ -1,3 +1,6 @@
+/* HOW TO USE: ADD THE LINE BELOW TO YOUR MARKDOWN DOCUMENT */
+/* <link rel="stylesheet" type="text/css" href="https://litianhao.life/files/numbering_system_for_markdown.css" /> */
+
 h1 { counter-reset: h2counter; }
 h2 { counter-reset: h3counter; }
 h3 { counter-reset: h4counter; }
