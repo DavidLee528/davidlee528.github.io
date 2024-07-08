@@ -10,12 +10,14 @@ redirect_from:
 
 ## Biography
 <!-- ====== -->
-I'm a Security Researcher at Coordinate Lab, [TOPSEC](https://www.topsecgroup.com/), specializing in LLM security and AI red teaming. I will receive my B.Eng. degree from North China University of Technology. During undergraduate, I also served as a Security Research Intern at Dubhe Lab, [NSFOCUS](https://nsfocusglobal.com/). Throughout my academic journey, I have authored 7 SCI/EI-indexed papers, with 3 of them being as the first author.
+I am currently pursuing a Master of Science (M.Sc.) degree in Medical Physics of Duke University under [Prof. Fang-Fang Yin](https://radonc.duke.edu/profile/fang-fang-yin)'s group. My research interests lie at the intersection of Trustworthy Machine Learning (Security, Privacy, Robustness, Fairness), Large Language Model, and AI for Medicine. Prior to joining Duke, I earned a B.Eng. degree in Information Security and worked as a security researcher at [TOPSEC](https://www.topsecgroup.com/) and [NSFOCUS](https://nsfocusglobal.com/), where I specialized in LLM security and offensive AI red teaming. 
+
 
 ## Research Interests
 <!-- ====== -->
 - Trustworthy Machine Learning
-- AI Red Teaming
+- Large Language Model
+- Artificial Intelligence for Medicine
 - Biometrics Recognition
 
 ## Experience
