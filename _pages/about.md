@@ -12,6 +12,7 @@ redirect_from:
 <!-- ====== -->
 I am currently pursuing a Master of Science (M.Sc.) degree in Medical Physics at Duke University under [Prof. Fang-Fang Yin](https://radonc.duke.edu/profile/fang-fang-yin)'s group. My research interests lie at the intersection of Trustworthy Machine Learning (Security, Privacy, Robustness, Fairness), Large Language Model, and AI for Medicine. Prior to joining Duke, I earned a B.Eng. degree in Information Security and worked as a security researcher at [TOPSEC](https://www.topsecgroup.com/) and [NSFOCUS](https://nsfocusglobal.com/), where I specialized in LLM security and offensive AI red teaming. 
 
+Meet Tianhao: [cal.com/tianhao](https://cal.com/tianhao)
 
 ## Research Interests
 <!-- ====== -->
