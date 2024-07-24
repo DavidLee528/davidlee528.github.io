@@ -6,20 +6,20 @@ main:
   - title: "Research"
     url: /publications/
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
   - title: "Curriculum Vitae"
     url: https://litianhao.life/files/cv/cv-bilingual-tianhaoli.pdf
 
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
   # - title: "Extracurricular Activities"
   #   url: /extra/
