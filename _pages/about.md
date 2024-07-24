@@ -16,15 +16,15 @@ I am currently pursuing a Master of Science (M.Sc.) degree in Medical Physics at
 ## Contact
 
 - Meeting: [cal.com/tianhao](https://cal.com/tianhao)
-- Email: [tianhao.li2@duke.edu](mailto:tianhao.li2@duke.edu) | [davidlee0x01@proton.me](mailto:davidlee0x01@proton.me)
+- Email: [tianhao.li2@duke.edu](mailto:tianhao.li2@duke.edu) and [davidlee0x01@proton.me](mailto:davidlee0x01@proton.me)
 - Cipher: [PGP Public Key File](https://litianhao.life/files/TianhaoLi_0x0FD8D6F5_public.asc) (Recommend using the [GNU Privacy Guard](https://gnupg.org/))
 
-<!-- ## Research Interests
+<!-- ## Research Interests -->
 <!-- ====== -->
 <!-- - Trustworthy Machine Learning
 - Large Language Model
 - Artificial Intelligence for Medicine
-- Biometrics Recognition --> -->
+- Biometrics Recognition -->
 
 ## Experience
 <html lang="en">
