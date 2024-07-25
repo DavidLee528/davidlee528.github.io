@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - https://litianhao.life/files/cv/cv-bilingual-tianhaoli.pdf
+  - https://tianhao.li/files/cv/cv-bilingual-tianhaoli.pdf
 ---
 
 {% include base_path %}
@@ -14,12 +14,12 @@ redirect_to:
 ## Education
 
 - B.Eng. in Information Security, North China University of Technology, 2020-2024
-  - GPA: 3.88, Grade: 90.69, Download my [transcript](https://litianhao.life/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
+  - GPA: 3.88, Grade: 90.69, Download my [transcript](https://tianhao.li/files/cv/score-ch.pdf "Click to download transcripts from undergraduate studies")
 
 ## Research & Work Experience
 
 - September 2023 - Now: NSFOCUS Technologies Group Co.,Ltd *Security Research Intern*
-- July 2023 - September 2023: China Telecommunications Group Co.,Ltd *([Research and Development Intern](https://litianhao.life/files/cv/202307_internship_certificate.pdf))*
+- July 2023 - September 2023: China Telecommunications Group Co.,Ltd *([Research and Development Intern](https://tianhao.li/files/cv/202307_internship_certificate.pdf))*
   - Duty: Data Analysis
 - October 2022 - June 2023: High-Tech Innovation Institute, NCUT *(Research Intern)*
   - Mentors: Prof. Dr. [Lijun Wang](http://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm), A.Prof. Dr. [Zhengping Li](https://baike.baidu.com/item/李争平/4000778), Dr. [Ying Li](mailto:liying4590@gmail.com)
@@ -53,7 +53,7 @@ redirect_to:
 
 ### Miscellaneous
 
-- Language: Native Mandarin, Fluent professional English (CET-4, CET-6 and [IELTS-6.5](https://litianhao.life/files/certificates/ielts.pdf))
+- Language: Native Mandarin, Fluent professional English (CET-4, CET-6 and [IELTS-6.5](https://tianhao.li/files/certificates/ielts.pdf))
 - Driving (Since September 2020)
 - Photography / Video Editing
 
@@ -120,7 +120,7 @@ redirect_to:
 *"Work hard, play hard."*
 
 - Mountain Biking: See POV videos on my [bilibili](https://space.bilibili.com/288683260) channel. I am 2023 TOP10🏆 racer in GDL Thaiwoo downhill racing.
-- Road/Trail Running: I am 2023 [CHONGLI 168 ULTRA TRAIL](https://www.chongli-ultra.com/)(Biggest in Asia) DTC-100KM FINISHER🏆, gained 4 [ITRA](https://itra.run/) credits, see my [blog](https://litianhao.life/posts/2023/07/chongli168/).
+- Road/Trail Running: I am 2023 [CHONGLI 168 ULTRA TRAIL](https://www.chongli-ultra.com/)(Biggest in Asia) DTC-100KM FINISHER🏆, gained 4 [ITRA](https://itra.run/) credits, see my [blog](https://tianhao.li/posts/2023/07/chongli168/).
 - Photography: Love wildlife photography, see portfolio.
 - Hiking: Aspire to climb Mt.Everest, see related blogs. 
 - Off-road Driving, see related blogs.
@@ -129,6 +129,6 @@ redirect_to:
 
 ## Download my CV in PDF format
 
-- For Chinese Version: [[cv-ch-tianhaoli.pdf](https://litianhao.life/files/cv/cv-ch-tianhaoli.pdf)]
-- For English Version: [[cv-en-tianhaoli.pdf](https://litianhao.life/files/cv/cv-en-tianhaoli.pdf)]
-- For Bilingual Version: [[cv-bilingual-tianhaoli.pdf](https://litianhao.life/files/cv/cv-bilingual-tianhaoli.pdf)]
+- For Chinese Version: [[cv-ch-tianhaoli.pdf](https://tianhao.li/files/cv/cv-ch-tianhaoli.pdf)]
+- For English Version: [[cv-en-tianhaoli.pdf](https://tianhao.li/files/cv/cv-en-tianhaoli.pdf)]
+- For Bilingual Version: [[cv-bilingual-tianhaoli.pdf](https://tianhao.li/files/cv/cv-bilingual-tianhaoli.pdf)]
