@@ -40,7 +40,7 @@ b {
 }
 
 p {
-  line-height: 1.0; 
+  line-height: 1.25; 
 }
 
 i {
