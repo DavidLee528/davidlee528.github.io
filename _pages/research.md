@@ -97,7 +97,7 @@ i {
 
 <div class="container">
   <div class="image-container">
-    <img src="https://tianhao.li/files/research/banner/li2024trustworthy.png" alt="zheng2024unveiling" width="100%"> 
+    <img src="https://tianhao.li/files/research/banner/zheng2024unveiling.png" alt="zheng2024unveiling" width="100%"> 
   </div>
   <div class="text-container">
     <b>Unveiling Privacy Challenges: Big Data‐Driven Digital Twins in Smart City Applications</b>
