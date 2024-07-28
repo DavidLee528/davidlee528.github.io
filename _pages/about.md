@@ -135,7 +135,7 @@ I am currently seeking research-focused internship opportunities for the summer 
 <body>
 
 <div class="experience">
-    <img src="https://tianhao.li/files/cv/duke.jpg" alt="Duke" class="logo">
+    <img src="https://tianhao.li/files/cv/duke.png" alt="Duke" class="logo">
     <div class="company-info">
         <h3>Duke University</h3>
         <i>Master of Science in Medical Physics, 2026 (Expected)</i>
