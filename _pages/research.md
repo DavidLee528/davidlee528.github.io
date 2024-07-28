@@ -178,12 +178,8 @@ i {
 </html>
 
 
-# Talks
-
 # Collaborators
 
 - Lijun Wang, PhD, Professor/Director, Advance Vision Research Institute, Hangzhou Institute of Technology, Xidian University
 - Guangcan Yang, PhD, Professor, North China University of Technology
-- Zhengping Li, PhD, Professor, North China University of Technology
-- Ying Li, PhD, Lecturer, North China University of Technology
 - Junyu Xuan, PhD, Senior Lecturer, University of Technology Sydney
