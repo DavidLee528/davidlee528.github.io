@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Tianhao Li"
   avatar           : "profile.png"
-  bio              : "IEEE Student Member"
+  bio              : "Trustworthy ML, LLM, Medical AI | Master @ Duke | Ex Security Researcher @ TOPSEC & NSFOCUS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "davidlee0x01@proton.me"
+  googlescholar    : https://scholar.google.com/citations?user=vWqek4oAAAAJ&hl=en
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -116,8 +116,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : "288683260"
-  zhihu            : "li-tian-hao-1-98"
+  # bilibili         : "288683260"
+  # zhihu            : "li-tian-hao-1-98"
 
 
 # Reading Files
