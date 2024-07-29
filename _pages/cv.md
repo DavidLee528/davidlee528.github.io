@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - https://tianhao.li/files/cv/cv-bilingual-tianhaoli.pdf
+  - https://tianhao.li/cv.pdf
 ---
 
 {% include base_path %}
