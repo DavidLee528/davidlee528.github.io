@@ -16,9 +16,9 @@ h2 {
 
 ## Biography
 
-I am currently pursuing a Master of Science (M.Sc.) degree in Medical Physics at Duke University under [Prof. Fang-Fang Yin](https://radonc.duke.edu/profile/fang-fang-yin)'s group. My research interests lie at the intersection of Trustworthy Machine Learning (Security, Privacy, Robustness, Fairness), Large Language Model, and AI For Medicine and Healthcare. Prior to that, I earned a B.Eng. degree in Information Security and worked as a security researcher at [TOPSEC](https://www.topsecgroup.com/) and [NSFOCUS](https://nsfocusglobal.com/), where I specialized in LLM security and offensive AI red teaming. 
+Tianhao Li, MSc Candidate, Duke University. Prior to that, He earned a BEng degree in Information Security. He's research interest lies at the intersection of Trustworthy AI, Large Language Models, and AI for Science. He has extensive research experience in both academia and industry, including at Duke University, the University of Wisconsin-Madison, Zhejiang University, TOPSEC, and NSFOCUS.
 
-I am currently seeking research-focused internship opportunities for the summer of 2025, spanning both industrial and academic settings. Additionally, I am interested in pursuing a PhD program beginning in the fall of 2026. If you are interested in collaborating with me, please feel free to reach out!
+<!-- I am currently seeking research-focused internship opportunities for the summer of 2025, spanning both industrial and academic settings. Additionally, I am interested in pursuing a PhD program beginning in the fall of 2026. If you are interested in collaborating with me, please feel free to reach out! -->
 
 <br>
 
@@ -57,13 +57,31 @@ I am currently seeking research-focused internship opportunities for the summer 
 <body>
 
 <div class="experience">
+    <img src="https://tianhao.li/files/cv/uwm.png" alt="UWM" class="logo">
+    <div class="company-info">
+        <h3>University of Wisconsin-Madison</h3>
+        <p>Research Intern (Part Time) @ Safe And secure Foundation mOdel systems Lab (SaFoLab) </p>
+        <i style="margin-top: -5px;">Oct 2024 - Present</i>
+    </div>
+</div>
+
+<div class="experience">
+    <img src="https://tianhao.li/files/cv/zju.png" alt="ZJU" class="logo">
+    <div class="company-info">
+        <h3>Zhejiang University</h3>
+        <p>Visiting Researcher (Part Time) @ Knowledge Engine Lab</p>
+        <i style="margin-top: -5px;">July 2024 - October 2024</i>
+    </div>
+</div>
+
+<!-- <div class="experience">
     <img src="https://tianhao.li/files/cv/splxai.png" alt="TOPSEC" class="logo">
     <div class="company-info">
         <h3>SplxAI</h3>
         <p>Research Scientist (Part Time)</p>
         <i style="margin-top: -5px;">August 2024 - Present</i>
     </div>
-</div>
+</div> -->
 
 <div class="experience">
     <img src="https://tianhao.li/files/cv/topsec.png" alt="TOPSEC" class="logo">
