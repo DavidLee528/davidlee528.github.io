@@ -16,9 +16,7 @@ h2 {
 
 ## Biography
 
-Tianhao Li, MSc Candidate, Duke University. Prior to that, He earned a BEng degree in Information Security. He's research interest lies at the intersection of Trustworthy AI, Large Language Models, and AI for Science. He has extensive research experience in both academia and industry, including at Duke University, the University of Wisconsin-Madison, Zhejiang University, TOPSEC, and NSFOCUS.
-
-<!-- I am currently seeking research-focused internship opportunities for the summer of 2025, spanning both industrial and academic settings. Additionally, I am interested in pursuing a PhD program beginning in the fall of 2026. If you are interested in collaborating with me, please feel free to reach out! -->
+Tianhao Li is an MSc candidate at Duke University, specializing in the intersection of Trustworthy AI, Large Language Models, AI for Cybersecurity, and AI for Science. He holds a BEng in Information Security and has extensive research experience in both academia and industry. His work spans institutions such as Duke University, the University of Wisconsin-Madison, Zhejiang University, TOPSEC, and NSFOCUS. Tianhao has published over 8 SCI/EI papers and actively contributes to the NVIDIA open-source project [leondz/garak](https://github.com/leondz/garak) (1.3k+ stars). He also serves as a reviewer for the top-tier SCI journal Reliability Engineering & System Safety (JCR-Q1, IF=9.4). For more information, visit https://tianhao.li/ .
 
 <br>
 
