@@ -190,18 +190,11 @@ i {
 I am immensely grateful to my collaborators and co-authors, whose expertise, insight, and dedication have been invaluable throughout my research journey. (Listed alphabetically by last name)
 
 - Dr. Huajun Chen, Professor, Zhejiang University [[Home](https://person.zju.edu.cn/en/huajun)][[Google Scholar](https://scholar.google.com/citations?user=T6om-m4AAAAJ&hl=en)]
-
 - Dr. Keyan Ding, Assistant Professor, Zhejiang University [[Home](https://hic.zju.edu.cn/ibct/2022/1213/c65955a2701797/page.htm)][[Google Scholar](https://scholar.google.com/citations?user=A7u-ZowAAAAJ&hl=en)]
-
 - Dr. Jindong Wang, Senior Researcher, Microsoft Research Asia [[Home](https://jd92.wang/)][[Google Scholar](https://scholar.google.com/citations?hl=en&user=hBZ_tKsAAAAJ&view_op=list_works)][[DBLP](https://dblp.org/pid/19/2969-1.html)]
-
 - Dr. Lijun Wang, Professor, Hangzhou Institute of Technology, Xidian University [[Home](https://gjjcxyjy.ncut.edu.cn/info/1003/1032.htm)]
-
 - Dr. Chaowei Xiao, Assistant Professor, University of Wisconsin–Madison [[Home](https://xiaocw11.github.io/)][[Google Scholar](https://scholar.google.com/citations?user=Juoqtj8AAAAJ&hl=en)]
-
 - Dr. Fang-Fang Yin, Gustavo S. Montana Distinguished Professor Emeritus/Professor, Duke University/Duke Kunshan University [[Home](https://scholars.duke.edu/person/fangfang.yin)][[Google Scholar](https://scholar.google.com/citations?user=J6lv7y8AAAAJ&hl=en)]
-
 - Dr. Zhenyu Yang, Assistant Professor, Duke Kunshan University [[Home](https://faculty.dukekunshan.edu.cn/faculty_profiles/zhenyu-yang)][[Google Scholar](https://scholar.google.com/citations?user=oYqSQSkAAAAJ&hl=en)]
-
 - Dr. Qiang Zhang, Assistant Professor, Zhejiang University [[Home](https://qiangairesearcher.github.io/)][[Google Scholar](https://scholar.google.com/citations?user=ZKuRZaEAAAAJ&hl=en)]
 
