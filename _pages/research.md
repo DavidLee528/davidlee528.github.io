@@ -5,11 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is driven by a passion for developing artificial intelligence systems that are not only powerful but also **trustworthy and reliable**, ensuring its' **responsible and ethical** deployment. Currently, I focus on three key areas:
-
-- Trustworthy Machine Learning: I am exploring methods to enhance the transparency, fairness, and robustness of machine learning models, ensuring they make decisions that are understandable, unbiased, and resilient to adversarial attacks.
-- Large Language Models: I am investigating the capabilities and limitations of large language models, with a focus on their potential applications in various domains while addressing concerns related to bias, misinformation, and ethical use.
-- AI for Medicine & Healthcare: I am interested in leveraging AI to improve healthcare outcomes, from disease diagnosis and treatment planning to drug discovery and personalized medicine. My goal is to develop AI solutions that are safe, effective, and accessible to all.
+Tianhao's research is driven by a passion for developing Artificial Intelligence (AI) systems that are not only powerful but also **trustworthy and reliable**, ensuring its' **responsible and ethical** deployment. Currently, I focus on three key areas: (i) Trustworthy AI (Security, Privacy, Explainability, etc.); (ii) Large Language Models (LLMs); (iii) AI for Science. We have two core research questions as follow:
 
 <html>
 <head>
@@ -96,6 +92,17 @@ i {
 </style>
 </head>
 <body>
+
+<div class="container">
+  <div class="image-container">
+    <img src="https://tianhao.li/files/research/banner/li2024scisafeeval.png" alt="li2024scisafeeval" width="100%"> 
+  </div>
+  <div class="text-container">
+    <b>SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks</b>
+    <p>Tianhao Li, Jingyu Lu, Chuangxin Chu, Tianyu Zeng, Yujia Zheng, Mei Li, Haotian Huang, Bin Wu, Zuoxian Liu, Kai Ma, Xuejing Yuan, Xingkai Wang, Keyan Ding, Huajun Chen, Qiang Zhang*</p>
+    <i>arXiv preprint arXiv:2410.03769, 2024 (ICLR'25 Submission) </i>
+  </div>
+</div>
 
 <div class="container">
   <div class="image-container">
