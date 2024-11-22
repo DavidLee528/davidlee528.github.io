@@ -111,7 +111,7 @@ i {
   <div class="text-container">
     <b>A Survey on Gait Recognition Against Occlusion: Taxonomy, Dataset and Methodology</b>
     <p>Tianhao Li, Weizhi Ma, Yujia Zheng, Xinchao Fan, Guangcan Yang, Lijun Wang, Zhengping Li*</p>
-    <i>PeerJ Computer Science, 2024 (SCI, JCR-Q1, Undergoing Major Revision)</i>
+    <i>PeerJ Computer Science, 2024 (SCI, JCR-Q1, Accepted)</i>
   </div>
 </div>
 
@@ -122,7 +122,7 @@ i {
   <div class="text-container">
     <b>SFSWTS: EEG Emotion Recognition Based on Spatial-frequency Shifted Windows Time Self-attention Neural Network</b>
     <p>Weizhi Ma, Ying Li*, Tianhao Li, Haowei Yang, Zhengping Li, Lijun Wang, Junyu Xuan</p>
-    <i>Pattern Recognition, 2024 (SCI, JCR-Q1, Undergoing Peer Review)</i>
+    <i>Pattern Recognition, 2024 (SCI, JCR-Q1, Undergoing Major Revision)</i>
   </div>
 </div>
 
