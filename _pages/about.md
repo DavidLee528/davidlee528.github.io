@@ -16,7 +16,7 @@ h2 {
 
 ## Biography
 
-Tianhao Li is an MSc candidate at Duke University, specializing in the intersection of Trustworthy AI, Large Language Models, and AI for Science. He holds a BEng in Information Security and has extensive research experience in both academia and industry. His work spans institutions such as Duke University, the University of Wisconsin-Madison, Zhejiang University, TOPSEC, and NSFOCUS. Tianhao has published over 8 SCI/EI papers and actively contributes to the NVIDIA open-source project [leondz/garak](https://github.com/leondz/garak) (1.3k+ stars). He also serves as a reviewer for the top SCI journal Reliability Engineering & System Safety (JCR-Q1, IF=9.4) and the top NLP conference COLING. For more information, visit [https://tianhao.li/](tianhao.li) .
+Tianhao Li is an MSc candidate at Duke University, specializing in the intersection of Trustworthy AI, Large Language Models, and AI for Science. He holds a BEng in Information Security and has extensive research experience in both academia and industry. His work spans institutions such as Duke University, the University of Wisconsin-Madison, Zhejiang University, TOPSEC, and NSFOCUS. Tianhao has published over 9 SCI/EI papers and actively contributes to the NVIDIA open-source project [leondz/garak](https://github.com/leondz/garak) (3.0k+ stars). He also serves as peer reviewers for the top journals, conferences, and workshops, including Reliability Engineering & System Safety (JCR-Q1, IF=9.4), COLING, ISBI, IJCNN, PPAI, DAI. He also serve as a member and individual contributor of MLCommon AI Risk & Reliability (AIRR) Working Group.
 
 <br>
 
