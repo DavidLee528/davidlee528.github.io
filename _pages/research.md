@@ -54,7 +54,7 @@ A full list of my publications can be found on my [Google Scholar](https://dl.ac
 
 - The ultimate goal of research is to improve the quality of human life, emphasizing that our work is dedicated to **serving and benefiting humanity**.
 - Research must adhere to the **highest ethical standards**, ensuring honesty, transparency, and respect for all individuals and communities involved.
-- Conducting research or managing a research group feels much like running a startup—both require vision, strategy, resource management, and a relentless drive to innovate.
+- Conducting research or managing a research group feels much like **running a startup**—both require **vision, strategy, resource management, and a relentless drive to innovate**.
 - Collaboration is vital to advancing research. Teams enriched with **diverse backgrounds and perspectives** bring unique insights, fostering innovation and comprehensive solutions.
 - Research should strive to complete the cycle from discovery to application, ensuring that findings have **real-world impact** rather than ending with publication.
 
