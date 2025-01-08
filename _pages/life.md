@@ -20,7 +20,7 @@ I am passionate about mountain bike enduro, trail and road running, badminton, p
 
 Epistemology:
 
-- Weinberg, G., & Mares, J. (2015). **Traction: How any startup can achieve explosive customer growth**. Portfolio. [[Amazon](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369)] (*Conducting research or managing a research group feels much like running a startup—both require vision, strategy, resource management, and a relentless drive to innovate.*)
+- Weinberg, G., & Mares, J. (2015). **Traction: How any startup can achieve explosive customer growth**. Portfolio. [[Amazon](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369)]
 - Feynman, R. P., Leighton, R., & Hutchings, E. (1997). **Surely you’re joking, mr. Feynman!: Adventures of a curious character**. W.W. Norton. 
 - Ling, C. X., & Yang, Q. (2012). **Crafting your research future: A guide to successful master’s and ph. D. Degrees in Science & Engineering**. Springer. 
 
