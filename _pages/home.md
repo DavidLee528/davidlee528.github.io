@@ -27,11 +27,11 @@ permalink: /
     <p>
         [<a href="mailto:tianhao.li2@duke.edu">Email: tianhao.li2@duke.edu</a>] | [<a href="https://cal.com/tianhao">Meeting Schedule</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0x0FD8D6F5_public.asc">PGP Public Key</a>]
     </p>
-    <!-- <p>
-        [<a href="" target="_blank">Curriculum Vitae</a>] | [<a href="" target="_blank">Research Statement</a>] | [<a href="" target="_blank">Teaching Statement</a>] | [<a href="" target="_blank">Diversity Statement</a>]
-    </p> -->
     <p>
-        [<a href="https://scholar.google.com/citations?user=vWqek4oAAAAJ" target="_blank">Google Scholar</a>] | [<a href="https://www.researchgate.net/profile/Tianhao-Li-43" target="_blank">ResearchGate</a>] | [<a href="https://orcid.org/0009-0006-6362-3135" target="_blank">ORCID</a>] | [<a href="https://github.com/DavidLee528" target="_blank">Github</a>] | [<a href="https://openreview.net/profile?id=~Tianhao_Li8" target="_blank">OpenReview</a>] | [<a href="https://dblp.org/pid/69/2238.html" target="_blank">DBLP</a>] | [<a href="https://www.zhihu.com/people/li-tian-hao-1-98" target="_blank">Zhihu</a>] | [<a href="https://www.strava.com/athletes/77110175" target="_blank">Strava</a>]
+        [<a href="https://tianhao.li/cv" target="_blank">Curriculum Vitae</a>] | [<a href="" target="_blank">Research Statement</a>] | [<a href="" target="_blank">Teaching Statement</a>] | [<a href="" target="_blank">Diversity Statement</a>]
+    </p>
+    <p>
+        [<a href="https://scholar.google.com/citations?user=vWqek4oAAAAJ" target="_blank">Google Scholar</a>] | [<a href="https://www.researchgate.net/profile/Tianhao-Li-43" target="_blank">ResearchGate</a>] | [<a href="https://orcid.org/0009-0006-6362-3135" target="_blank">ORCID</a>] | [<a href="https://www.linkedin.com/in/tianhaoli0x01" target="_blank">LinkedIn</a>] | [<a href="https://github.com/DavidLee528" target="_blank">Github</a>] | [<a href="https://openreview.net/profile?id=~Tianhao_Li8" target="_blank">OpenReview</a>] | [<a href="https://dblp.org/pid/69/2238.html" target="_blank">DBLP</a>] | [<a href="https://www.zhihu.com/people/li-tian-hao-1-98" target="_blank">Zhihu</a>] | [<a href="https://www.strava.com/athletes/77110175" target="_blank">Strava</a>]
     </p>
 </div>
 
