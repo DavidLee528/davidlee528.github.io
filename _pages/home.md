@@ -95,11 +95,12 @@ permalink: /
 <h3>News</h3>
 
 <ul>
+    <li>[Apr 2025] Our paper SFSWTS: A Spatial-Frequency Shifted Windows and Time Self-Attention Network for EEG Emotion Recognition has been accepted by Neurocomputing (JCR-Q1), congrats Weizhi!</li>
     <li>[Mar 2025] Our paper <a href="https://arxiv.org/abs/2502.03825">Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation</a> has been accepted by ICLR 2025 SynthData, see you in Singapore EXPO!</li>
     <li>[Dec 2024] Our paper <a href="https://arxiv.org/abs/2410.03769">SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks</a> has been accepted by AAAI 2025 AICS as oral presentation, see you in Philadelphia, Pennsylvania, USA!</li>
-    <li>[Dec 2024] Our survey paper <a href="https://peerj.com/articles/cs-2602/">A survey on gait recognition against occlusion: taxonomy, dataset and methodology</a> has been published by PeerJ Computer Science (SCI, JCR-Q1)!</li>
+    <li>[Dec 2024] Our survey paper <a href="https://peerj.com/articles/cs-2602/">A survey on gait recognition against occlusion: taxonomy, dataset and methodology</a> has been published by PeerJ Computer Science (JCR-Q1)!</li>
     <li>[Dec 2024] 7 papers from SIGMIR have been accepted by ICDT 2025 as oral presentations, congrats to Jingyu, Tianyu, Chuangxin, and Haotian!</li>
-    <li>[May 2024] Our survey paper <a href="https://peerj.com/articles/cs-2065/">A comprehensive review of deep learning in EEG-based emotion recognition: classifications, trends, and practical implications</a> has been published by PeerJ Computer Science (SCI, JCR-Q1)!</li>
+    <li>[May 2024] Our survey paper <a href="https://peerj.com/articles/cs-2065/">A comprehensive review of deep learning in EEG-based emotion recognition: classifications, trends, and practical implications</a> has been published by PeerJ Computer Science (JCR-Q1)!</li>
     <li>[Nov 2023] Tianhao will give 2 oral presentations and 1 poster presentation at MLIS'24 for 3 accepted papers from SIGMIR, see you in Macau!</li>
     <li>[Aug 2023] Tianhao will give an oral presentation at BDIoT'23 about the accepted paper <a href="https://dl.acm.org/doi/abs/10.1145/3617695.3617719">Research on Real-time Early Warning Mechanism of Aviation Safety Based on Finite State Machine Underlying in QAR Stream Data</a>.</li>
 </ul>
