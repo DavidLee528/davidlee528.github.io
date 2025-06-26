@@ -12,7 +12,7 @@ permalink: /
         <h1>Biography</h1>
         <br>
         <p>
-            Tianhao Li is a thesis-track MSc candidate in Medical Physics at Duke University (DKU-based), where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He also serves as a visiting researcher at the University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His primary research focus lies in <strong>Safety & Privacy for Healthcare Foundation Model</strong>. Tianhao received a BEng in Information Security in 2024 and leads the Special Interest Group in Modern Interdisciplinary Research (SIGMIR). He also serves as peer reviewers for prestigious journals, conferences, and workshops, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, Tianhao contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA’s widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.2K+ stars on Github</strong>).
+            Tianhao Li is a graduate student at Duke University, where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He also serves as a visiting researcher at the University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His primary research focus lies in <strong>Safety & Privacy for Healthcare Foundation Model</strong>. Tianhao received a BEng in Information Security in 2024 and leads the Special Interest Group in Modern Interdisciplinary Research (SIGMIR). He also serves as peer reviewers for prestigious journals, conferences, and workshops, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, Tianhao contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA’s widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.7K+ stars on Github</strong>).
         </p>
     </div>
     <div class="image">
@@ -20,17 +20,15 @@ permalink: /
     </div>
 </div>
 
-<div class="full-width-section">
+<!-- <div class="full-width-section"> -->
     <p>
-        [<a href="mailto:tianhao.li2@duke.edu">Email: tianhao.li2@duke.edu</a>] | [<a href="https://cal.com/tianhao">Meeting Schedule</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0x0FD8D6F5_public.asc">PGP Public Key</a>]
+        <b>Reach me</b>: [<a href="mailto:tianhao.li2@duke.edu">tianhao.li2@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key:7A4F5713BF75077E607298A7BA448C7765EBC1DC</a>]
     </p>
     <p>
-        [<a href="https://tianhao.li/cv" target="_blank">Curriculum Vitae</a>] | [<a href="" target="_blank">Research Statement</a>] | [<a href="" target="_blank">Teaching Statement</a>] | [<a href="" target="_blank">Diversity Statement</a>]
+        <b>Know me</b>: [<a href="https://tianhao.li/cv" target="_blank">Curriculum Vitae</a>] &nbsp;&nbsp;
+        <b>Follow me</b>: [<a href="https://scholar.google.com/citations?user=vWqek4oAAAAJ" target="_blank">Google Scholar</a>] | [<a href="https://www.researchgate.net/profile/Tianhao-Li-43" target="_blank">ResearchGate</a>] | [<a href="https://orcid.org/0009-0006-6362-3135" target="_blank">ORCID</a>] | [<a href="https://www.linkedin.com/in/tianhaoli0x01" target="_blank">LinkedIn</a>] | [<a href="https://github.com/DavidLee528" target="_blank">Github</a>] | [<a href="https://huggingface.co/Tianhao0x01" target="_blank">HuggingFace</a>] | [<a href="https://www.zhihu.com/people/li-tian-hao-1-98" target="_blank">Zhihu</a>] | [<a href="https://www.strava.com/athletes/77110175" target="_blank">Strava</a>]
     </p>
-    <p>
-        [<a href="https://scholar.google.com/citations?user=vWqek4oAAAAJ" target="_blank">Google Scholar</a>] | [<a href="https://www.researchgate.net/profile/Tianhao-Li-43" target="_blank">ResearchGate</a>] | [<a href="https://orcid.org/0009-0006-6362-3135" target="_blank">ORCID</a>] | [<a href="https://www.linkedin.com/in/tianhaoli0x01" target="_blank">LinkedIn</a>] | [<a href="https://github.com/DavidLee528" target="_blank">Github</a>] | [<a href="https://openreview.net/profile?id=~Tianhao_Li8" target="_blank">OpenReview</a>] | [<a href="https://dblp.org/pid/69/2238.html" target="_blank">DBLP</a>] | [<a href="https://www.zhihu.com/people/li-tian-hao-1-98" target="_blank">Zhihu</a>] | [<a href="https://www.strava.com/athletes/77110175" target="_blank">Strava</a>]
-    </p>
-</div>
+<!-- </div> -->
 
 <style>
     .container {
@@ -47,7 +45,7 @@ permalink: /
     }
     .text {
         padding: 0px;
-        width: 70%;
+        width: 80%;
         text-align: left;
     }
     .text h1 {
@@ -61,7 +59,7 @@ permalink: /
         color: #555;
     }
     .image {
-        width: 30%;
+        width: 20%;
     }
     .image img {
         display: block;
