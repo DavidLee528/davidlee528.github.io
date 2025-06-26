@@ -22,7 +22,7 @@ permalink: /
 
 <!-- <div class="full-width-section"> -->
     <p>
-        <b>Reach me</b>: [<a href="mailto:tianhao.li2@duke.edu">tianhao.li2@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key:7A4F5713BF75077E607298A7BA448C7765EBC1DC</a>]
+        <b>Reach me</b>: [<a href="mailto:tianhao.li2@duke.edu">tianhao.li2@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key: 7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC</a>]
     </p>
     <p>
         <b>Know me</b>: [<a href="https://tianhao.li/cv" target="_blank">Curriculum Vitae</a>] &nbsp;&nbsp;
