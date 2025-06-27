@@ -10,7 +10,6 @@ permalink: /
 <div class="container">
     <div class="text">
         <h1>Biography</h1>
-        <br>
         <p>
             Tianhao Li is a graduate student at Duke University, where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He is also a visiting researcher at the <a href="https://github.com/SaFoLab-WISC" target="_blank">SaFoLab</a>, University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His research aims to <strong>evaluating and enhancing the safety and privacy of generative models and systems</strong>, particularly in real-world applications such as healthcare, science, and the metaverse. He received a B.Eng. in Information Security in 2024 from North China University of Technology and worked as a Security Researcher (<a href="https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/" target="_blank">AI Red Teaming</a>) at <a href="https://nsfocusglobal.com/" target="_blank">NSFOCUS</a> and <a href="https://www.topsecgroup.com/" target="_blank">TOPSEC</a> during his undergraduate studies.  He also serves as peer reviewers for prestigious journals and conferences, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, he contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA’s widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.7K+ stars</strong>). In early 2025, he founded Special Interest Group in Modern Interdisciplinary Research (<a href="https://sigmir.org" target="_blank">SIGMIR</a>) under section 501(c)(3), built its core team, and led its early operations and strategic development.
         </p>
@@ -19,9 +18,7 @@ permalink: /
         <img src="{{ site.url }}{{ site.baseurl }}/site/tianhao.jpg" alt="Tianhao">
     </div>
 </div>
-
 <br>
-
 <!-- <div class="full-width-section"> -->
     <p>
         <b>Reach me</b>: [<a href="mailto:tianhao.li2@duke.edu">tianhao.li2@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key: 7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC</a>]
@@ -84,10 +81,6 @@ permalink: /
 <br>
 
 <strong>Open to collaboration:</strong> Special Interest Group in Modern Interdisciplinary Research (SIGMIR) is a voluntary-based virtual research group, open to all students, researchers, and faculty members. If you are interested in joining, please fill in the <a href="https://forms.gle/AjJL3JqME9eKJFuF6">Google Form</a>.
-
-<!-- <br><br> -->
-
-<!-- <strong>Research Interest:</strong> Special Interest Group in Modern Interdisciplinary Research (SIGMIR) is a voluntary-based virtual research group, open to all students, researchers, and faculty members. If you are interested in joining, please fill in the <a href="https://forms.gle/AjJL3JqME9eKJFuF6">Google Form</a>. -->
 
 <h3>News</h3>
 
