@@ -12,13 +12,15 @@ permalink: /
         <h1>Biography</h1>
         <br>
         <p>
-            Tianhao Li is a graduate student at Duke University, where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He also serves as a visiting researcher at the University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His primary research focus lies in <strong>Safety & Privacy for Healthcare Foundation Model</strong>. Tianhao received a BEng in Information Security in 2024 and leads the Special Interest Group in Modern Interdisciplinary Research (SIGMIR). He also serves as peer reviewers for prestigious journals, conferences, and workshops, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, Tianhao contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA’s widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.7K+ stars on Github</strong>).
+            Tianhao Li is a graduate student at Duke University, where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He is also a visiting researcher at the <a href="https://github.com/SaFoLab-WISC" target="_blank">SaFoLab</a>, University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His research aims to <strong>evaluating and enhancing the safety and privacy of generative models and systems</strong>, particularly in real-world applications such as healthcare, science, and the metaverse. He received a B.Eng. in Information Security in 2024 and worked as a Security Researcher (<a href="https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/" target="_blank">AI Red Teaming</a>) at <a href="https://nsfocusglobal.com/" target="_blank">NSFOCUS</a> and <a href="https://www.topsecgroup.com/" target="_blank">TOPSEC</a> during his undergraduate studies.  He also serves as peer reviewers for prestigious journals and conferences, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, he contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA’s widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.7K+ stars</strong>). In early 2025, he founded Special Interest Group in Modern Interdisciplinary Research (<a href="https://sigmir.org" target="_blank">SIGMIR</a>) under section 501(c)(3), built its core team, and led its early operations and strategic development.
         </p>
     </div>
     <div class="image">
         <img src="{{ site.url }}{{ site.baseurl }}/site/tianhao.jpg" alt="Tianhao">
     </div>
 </div>
+
+<br>
 
 <!-- <div class="full-width-section"> -->
     <p>
@@ -45,7 +47,7 @@ permalink: /
     }
     .text {
         padding: 0px;
-        width: 80%;
+        width: 75%;
         text-align: left;
     }
     .text h1 {
@@ -59,7 +61,7 @@ permalink: /
         color: #555;
     }
     .image {
-        width: 20%;
+        width: 22.5%;
     }
     .image img {
         display: block;
