@@ -11,7 +11,7 @@ permalink: /
     <div class="text">
         <h1>Biography</h1>
         <p>
-            Tianhao Li is a graduate student at Duke University, where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He is also a visiting researcher at the <a href="https://github.com/SaFoLab-WISC" target="_blank">SaFoLab</a>, University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His research aims to <strong>evaluating and enhancing the safety and privacy of generative models and systems</strong>, particularly in real-world applications such as healthcare, science, and the metaverse. He received a B.Eng. in Information Security in 2024 from North China University of Technology and worked as a Security Researcher (<a href="https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/" target="_blank">AI Red Teaming</a>) at <a href="https://nsfocusglobal.com/" target="_blank">NSFOCUS</a> and <a href="https://www.topsecgroup.com/" target="_blank">TOPSEC</a> during his undergraduate studies.  He also serves as peer reviewers for prestigious journals and conferences, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, he contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA’s widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.7K+ stars</strong>). In early 2025, he founded Special Interest Group in Modern Interdisciplinary Research (<a href="https://sigmir.org" target="_blank">SIGMIR</a>) under section 501(c)(3), built its core team, and led its early operations and strategic development.
+            Tianhao Li is a graduate student at Duke University, where he work with Prof. <a href="https://scholar.google.com/citations?user=J6lv7y8AAAAJ" target="_blank">Fang-Fang Yin</a> and Prof. <a href="https://scholar.google.com/citations?user=oYqSQSkAAAAJ" target="_blank">Zhenyu Yang</a>. He is also a visiting researcher at the <a href="https://github.com/SaFoLab-WISC" target="_blank">SaFoLab</a>, University of Wisconsin-Madison, under supervision of Prof. <a href="https://scholar.google.com/citations?user=Juoqtj8AAAAJ" target="_blank">Chaowei Xiao</a>. His research aims to <strong>evaluating and enhancing the safety and privacy of generative models and systems</strong>, particularly in real-world applications such as healthcare, science, and the metaverse. He received a B.Eng. in Information Security in 2024 from North China University of Technology and worked as a Security Researcher (<a href="https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/" target="_blank">AI Red Teaming</a>) at <a href="https://nsfocusglobal.com/" target="_blank">NSFOCUS</a> and <a href="https://www.topsecgroup.com/" target="_blank">TOPSEC</a> during his undergraduate studies.  He also serves as peer reviewers for prestigious journals and conferences, including TIST, TAI, TBE, EAAI, RESS, JBHI, AAAI, IJCAI, ICLR, and ACL, etc.. In addition, he contribute to the <a href="https://mlcommons.org/" target="_blank">MLCommons</a> AI Risk &amp; Reliability (AIRR) Working Group, and the NVIDIA's widely recognized open-source project <a href="https://github.com/NVIDIA/garak" target="_blank">NVIDIA/garak</a> (<strong>4.7K+ stars</strong>). In early 2025, he founded Special Interest Group in Modern Interdisciplinary Research (<a href="https://sigmir.org" target="_blank">SIGMIR</a>) under section 501(c)(3), built its core team, and led its early operations and strategic development.
         </p>
     </div>
     <div class="image">
@@ -80,6 +80,320 @@ permalink: /
 
 <br>
 
+<!-- Insert Research Highlight Figure Here -->
+<div class="research-highlight">
+    <div class="research-diagram">
+        <!-- Top boxes: Evaluation and Enhancement -->
+        <div class="top-boxes">
+            <div class="eval-box">
+                <strong>Evaluation:</strong>
+                Benchmark • Jailbreak • Offensive Red Teaming
+            </div>
+            <div class="enhance-box">
+                <strong>Enhancement:</strong>
+                Alignment • Guardrails • Defensive Blue Teaming
+            </div>
+        </div>
+        <!-- Arrows with labels -->
+        <div class="arrows-section">
+            <div class="arrow-label left">
+                <div class="arrow arrow-up"></div>
+            </div>
+            <div class="arrow-label right">
+                <div class="arrow arrow-up"></div>
+            </div>
+        </div>  
+        <!-- Foundation Concepts -->
+        <div class="foundation-section">
+            <strong>Foundation Concepts of Trustworthy Generative Artificial Intelligence</strong>
+            <div class="concepts concept-row-1">
+                <div class="concept"><strong>Safety:</strong> Harm Prevention • Toxicity • Misuse</div>
+                <div class="concept"><strong>Privacy:</strong> Data Protection • Anonymization</div>
+                <div class="concept"><strong>Fairness:</strong> Bias Mitigation • Equity</div>
+            </div>
+            <div class="concepts concept-row-2">
+                <div class="concept"><strong>Robustness:</strong> Adversarial Defense • Reliability • Resilience</div>
+                <div class="concept"><strong>Explainability:</strong> Transparency • Interpretability</div>
+                <div class="concept"><strong>Human Value</strong></div>
+            </div>
+        </div>
+        <!-- Bottom arrow -->
+        <div class="bottom-arrow">
+            <div class="arrow arrow-down"></div>
+        </div>
+        <!-- Real-world Applications -->
+        <div class="applications-box">
+            <strong>Real-world Application & Downstream Tasks</strong>
+            <div class="applications-content">
+                <span>Cybersecurity</span> •
+                <span>Healthcare</span> • 
+                <span>Medical Imaging</span> •
+                <span>Scientific Research</span> • 
+                <span>Drug Discovery</span> • 
+                <span>Content Creation</span> • 
+                <span>Education</span> •
+                <span>Metaverse</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .research-highlight {
+        width: 100%;
+        margin: 20px 0;
+        text-align: center;
+    }
+    
+    .research-highlight h1 {
+        margin-bottom: 15px;
+        color: #333;
+        font-size: 28px;
+    }
+    
+    .research-diagram {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    
+    /* Top boxes */
+    .top-boxes {
+        display: flex;
+        width: 100%;
+        gap: 15px;
+        justify-content: space-between;
+    }
+    
+    .eval-box, .enhance-box {
+        flex: 1;
+        padding: 8px;
+        border: 2px dashed;
+        border-radius: 8px;
+        text-align: center;
+    }
+    
+    .eval-box {
+        border-color:rgb(160, 0, 0);
+    }
+    
+    .enhance-box {
+        border-color:rgb(0, 100, 181);
+    }
+    
+    .eval-box h4, .enhance-box h4 {
+        margin-top: 1px;
+        margin-bottom: 1px;
+        font-size: 18px;
+    }
+    
+    .eval-box ul, .enhance-box ul {
+        text-align: left;
+        padding-left: 20px;
+        margin: 5px 0;
+    }
+    
+    .eval-box li, .enhance-box li {
+        margin-bottom: 1px;
+        color: #555;
+    }
+    
+    /* Arrows section */
+    .arrows-section {
+        display: flex;
+        width: 127.5%;
+        justify-content: space-between;
+        position: relative;
+        height: 25px;
+        margin-top: -3px;
+        margin-bottom: -10px;
+    }
+    
+    .arrow-label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 120px;
+    }
+    
+    .arrow-label.left {
+        margin-left: 25%;
+    }
+    
+    .arrow-label.right {
+        margin-right: 25%;
+    }
+    
+    .arrow {
+        position: relative;
+        width: 2px;
+        background-color: #333;
+    }
+    
+    .arrow-up {
+        height: 20px;
+    }
+    
+    .arrow-up:after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -4px;
+        width: 10px;
+        height: 10px;
+        border-top: 2px solid #333;
+        border-right: 2px solid #333;
+        transform: rotate(-45deg);
+    }
+    
+    /* Bottom arrow */
+    .bottom-arrow {
+        display: flex;
+        justify-content: center;
+        height: 25px;
+        margin-top: -7px;
+        margin-bottom: -9px;
+    }
+    
+    .arrow-down {
+        height: 20px;
+    }
+    
+    .arrow-down:after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: -4px;
+        width: 10px;
+        height: 10px;
+        border-bottom: 2px solid #333;
+        border-right: 2px solid #333;
+        transform: rotate(45deg);
+    }
+    
+    /* Foundation section */
+    .foundation-section {
+        width: 100%;
+        border: 2px solid #333;
+        padding: 7px;
+        border-radius: 5px;
+    }
+    
+    .foundation-section h2 {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    
+    .concepts {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 2px;
+    }
+    
+    .concept {
+        position: relative;
+        padding: 1px 12px;
+        border: 1px solid #333;
+        border-radius: 5px;
+        min-width: 120px;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+        transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+    
+    .concept:hover {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        transform: translateY(-2px);
+    }
+    
+    .concept-detail {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 4px;
+        font-size: 11px;
+        color: #555;
+        z-index: 10;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    .concept:hover .concept-detail {
+        display: block;
+    }
+    
+    /* Applications box */
+    .applications-box {
+        width: 100%;
+        border: 2px dashed #555;
+        padding: 3px;
+        border-radius: 8px;
+    }
+    
+    .applications-box h2 {
+        margin: 3px 0;
+        font-size: 18px;
+    }
+    
+    .applications-content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
+        padding: 3px;
+        line-height: 1.2;
+    }
+    
+    .applications-content span {
+        font-weight: 500;
+        color: #444;
+        font-size: 16px;
+    }
+    
+    /* Responsive design */
+    @media (max-width: 768px) {
+        .top-boxes {
+            flex-direction: column;
+        }
+        
+        .arrows-section {
+            height: 100px;
+        }
+        
+        .arrow-label.left, .arrow-label.right {
+            margin: 0;
+        }
+        
+        .concepts {
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .concept {
+            width: 80%;
+        }
+    }
+    
+    /* Add to existing styles */
+    .concept-row-1 {
+        margin-bottom: 8px;
+    }
+    
+    .concept-row-2 {
+        margin-top: 8px;
+    }
+</style>
+
+<br>
+
 <strong>Open to collaboration:</strong> Special Interest Group in Modern Interdisciplinary Research (SIGMIR) is a voluntary-based virtual research group, open to all students, researchers, and faculty members. If you are interested in joining, please fill in the <a href="https://forms.gle/AjJL3JqME9eKJFuF6">Google Form</a>.
 
 <h3>News</h3>
@@ -110,4 +424,5 @@ permalink: /
 <br>
 
 </html>
+
 
