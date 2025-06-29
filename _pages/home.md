@@ -18,7 +18,6 @@ permalink: /
         <img src="{{ site.url }}{{ site.baseurl }}/site/tianhao.jpg" alt="Tianhao">
     </div>
 </div>
-<br>
 <!-- <div class="full-width-section"> -->
     <p>
         <b>Reach me</b>: [<a href="mailto:tianhao.li2@duke.edu">tianhao.li2@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key: 7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC</a>]
@@ -79,6 +78,13 @@ permalink: /
 </style>
 
 <br>
+<div class="text">
+<h1>Research Highlight</h1>
+</div>
+<br>
+<p>
+My research focuses on advancing trustworthy generative AI by identifying safety and privacy risks and developing robust mitigation strategies. Through empirical evaluation and system-level enhancements, I aim to enable responsible deployment in high-stakes domains such as healthcare, science, and cybersecurity.
+</p>
 
 <!-- Insert Research Highlight Figure Here -->
 <div class="research-highlight">
@@ -436,7 +442,6 @@ permalink: /
     }
 </style>
 
-<br>
 
 <strong>Open to collaboration:</strong> Special Interest Group in Modern Interdisciplinary Research (SIGMIR) is a voluntary-based virtual research group, open to all students, researchers, and faculty members. If you are interested in joining, please fill in the <a href="https://forms.gle/AjJL3JqME9eKJFuF6">Google Form</a>.
 
