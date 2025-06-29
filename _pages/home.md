@@ -105,7 +105,7 @@ permalink: /
         </div>  
         <!-- Foundation Concepts -->
         <div class="foundation-section">
-            <strong>Foundation Concepts of Trustworthy Generative Artificial Intelligence</strong>
+            <strong>Fundamental Concepts of Trustworthy Generative Artificial Intelligence</strong>
             <div class="concepts concept-row-1">
                 <div class="concept"><strong>Safety:</strong> Harm Prevention • Toxicity • Misuse</div>
                 <div class="concept"><strong>Privacy:</strong> Data Protection • Anonymization</div>
@@ -118,6 +118,20 @@ permalink: /
             </div>
         </div>
         <!-- Bottom arrow -->
+        <div class="bottom-arrow">
+            <div class="arrow arrow-down"></div>
+        </div>
+        <!-- Target Systems -->
+        <div class="target-systems-section">
+            <strong>Generative Artificial Intelligence Under Test</strong>
+            <div class="target-systems">
+                <div class="target-system">Large Language Models / Foundation Models</div>
+                <div class="target-system">Conversational AI / Chatbots</div>
+                <div class="target-system">Autonomous Agent</div>
+                <div class="target-system">Multi-agents System</div>
+            </div>
+        </div>
+        <!-- Second Bottom arrow -->
         <div class="bottom-arrow">
             <div class="arrow arrow-down"></div>
         </div>
@@ -253,7 +267,7 @@ permalink: /
     .bottom-arrow {
         display: flex;
         justify-content: center;
-        height: 25px;
+        height: 20px;
         margin-top: -7px;
         margin-bottom: -9px;
     }
@@ -336,6 +350,7 @@ permalink: /
         border: 2px dashed #555;
         padding: 3px;
         border-radius: 8px;
+        margin-top: 5px;
     }
     
     .applications-box h2 {
@@ -389,6 +404,35 @@ permalink: /
     
     .concept-row-2 {
         margin-top: 8px;
+    }
+    
+    /* Add to existing styles */
+    .target-systems-section {
+        width: 100%;
+        border: 2px dashed rgba(77, 171, 247, 0.7);
+        padding: 8px;
+        border-radius: 5px;
+        margin: 5px 0;
+        background-color:rgba(248, 251, 255, 0.3);
+        margin-bottom: 1px;
+    }
+    
+    .target-systems {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 7px;
+        margin-top: 5px;
+    }
+    
+    .target-system {
+        padding: 2px 12px;
+        border: 1px solid #4dabf7;
+        border-radius: 5px;
+        min-width: 120px;
+        text-align: center;
+        background-color: white;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     }
 </style>
 
