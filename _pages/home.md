@@ -84,6 +84,9 @@ permalink: /
 <br>
 <p>
 My research focuses on advancing trustworthy generative AI by identifying safety and privacy risks and developing robust mitigation strategies. Through empirical evaluation and system-level enhancements, I aim to enable responsible deployment in high-stakes domains such as healthcare, science, and cybersecurity.
+[<a href="https://arxiv.org/abs/2410.03769" title="SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks">Li et al., 2024</a>; 
+<a href="https://arxiv.org/abs/2502.03825" title="Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation">Li et al., 2025</a>;
+<a href="https://arxiv.org/abs/2503.05731" title="AILuminate: Introducing v1.0 of the AI Risk and Reliability Benchmark from MLCommons">Ghosh et al., 2025</a>]
 </p>
 
 <!-- Insert Research Highlight Figure Here -->
