@@ -20,7 +20,7 @@ permalink: /
 </div>
 <!-- <div class="full-width-section"> -->
     <p>
-        <b>Reach me</b>: [<a href="mailto:tianhao.li2@duke.edu">tianhao.li2@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key: 7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC</a>]
+        <b>Reach me</b>: [<a href="mailto:tianhao.li@duke.edu">tianhao.li@duke.edu</a>] | [<a href="mailto:tianhao.li@proton.me">tianhao.li@proton.me</a>] | [<a href="https://tianhao.li/files/TianhaoLi_0xBA448C7765EBC1DC_public.asc">PGP Public Key: 7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC</a>]
     </p>
     <p>
         <b>Know me</b>: [<a href="https://tianhao.li/cv" target="_blank">Curriculum Vitae</a>] &nbsp;&nbsp;
@@ -85,7 +85,9 @@ permalink: /
 <p>
 My research focuses on advancing trustworthy generative AI by identifying safety and privacy risks and developing robust mitigation strategies. Through empirical evaluation and system-level enhancements, I aim to enable responsible deployment in high-stakes domains such as healthcare, science, and cybersecurity.
 [<a href="https://arxiv.org/abs/2410.03769" title="SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks">Li et al., 2024</a>; 
+<a href="https://arxiv.org/abs/2508.01554" title="Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in Large Language Models">Zheng et al., 2025</a>
 <a href="https://arxiv.org/abs/2502.03825" title="Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation">Li et al., 2025</a>;
+<a href="https://arxiv.org/abs/2507.15296" title="Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems">Xiong et al., 2025</a>
 <a href="https://arxiv.org/abs/2503.05731" title="AILuminate: Introducing v1.0 of the AI Risk and Reliability Benchmark from MLCommons">Ghosh et al., 2025</a>]
 </p>
 
