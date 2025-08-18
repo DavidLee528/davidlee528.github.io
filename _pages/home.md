@@ -450,16 +450,126 @@ My research focuses on advancing trustworthy generative AI by identifying safety
 
 <strong>Open to collaboration:</strong> Special Interest Group in Modern Interdisciplinary Research (SIGMIR) is a voluntary-based virtual research group, open to all students, researchers, and faculty members. If you are interested in joining, please fill in the <a href="https://forms.gle/AjJL3JqME9eKJFuF6">Google Form</a>.
 
-<h3>News</h3>
+<!-- <h3>News</h3>
 
 <ul>
     <li>[Jul 2025] Our survey paper From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing has been accepted by Biosensors and Bioelectronics</li>
-    <li>[Apr 2025] Our paper SFSWTS: A Spatial-Frequency Shifted Windows and Time Self-Attention Network for EEG Emotion Recognition has been accepted by Neurocomputing (JCR-Q1), congrats Weizhi!</li>
+    <li>[Apr 2025] Our paper SFSWTS: A Spatial-Frequency Shifted Windows and Time Self-Attention Network for EEG Emotion Recognition has been accepted by Neurocomputing.</li>
     <li>[Mar 2025] Our paper <a href="https://arxiv.org/abs/2502.03825">Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation</a> has been accepted by ICLR 2025 SynthData, see you in Singapore EXPO!</li>
     <li>[Dec 2024] Our paper <a href="https://arxiv.org/abs/2410.03769">SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks</a> has been accepted by AAAI 2025 AICS as oral presentation, see you in Philadelphia, Pennsylvania, USA!</li>
     <li>[Dec 2024] Our survey paper <a href="https://peerj.com/articles/cs-2602/">A survey on gait recognition against occlusion: taxonomy, dataset and methodology</a> has been published by PeerJ Computer Science!</li>
     <li>[May 2024] Our survey paper <a href="https://peerj.com/articles/cs-2065/">A comprehensive review of deep learning in EEG-based emotion recognition: classifications, trends, and practical implications</a> has been published by PeerJ Computer Science!</li>
+</ul> -->
+
+<h3>Professional Services</h3>
+
+<h4>Journal Referee</h4>
+<ul>
+  <li>ACM Transactions on Intelligent Systems and Technology</li>
+  <li>IEEE Transactions on Artificial Intelligence</li>
+  <li>IEEE Transactions on Biomedical Engineering</li>
+  <li>Expert Systems With Applications</li>
+  <li>Engineering Applications of Artificial Intelligence</li>
+  <li>Computer Networks</li>
+  <li>Journal of Biomedical and Health Informatics</li>
+  <li>International Journal of Human-Computer Interaction</li>
+  <li>Reliability Engineering &amp; System Safety</li>
 </ul>
+
+<h4>Program Committee Member</h4>
+<ul>
+  <li>AAAI Conference on Artificial Intelligence (AAAI)</li>
+  <li>Association for Computational Linguistics Rolling Review (ARR)</li>
+  <li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
+  <li>International Conference on Computational Linguistics (COLING)</li>
+  <li>International Joint Conference on Neural Networks (IJCNN)</li>
+  <li>IEEE International Symposium on Biomedical Imaging (ISBI)</li>
+  <li>Conference on Health, Inference, and Learning (CHIL)</li>
+</ul>
+
+<section aria-labelledby="talks-title">
+  <h3 id="talks-title">Academic Talks</h3>
+  <ul class="talks">
+    <li>
+      <div class="title"><strong>Invited talk</strong> — <em>Toward Trustworthy Generative Foundation Models and Autonomous Agent System</em></div>
+      <div class="meta">Institute of Software, Chinese Academy of Sciences • Aug 2025 • Beijing, China • 25 mins
+      • <a href="site/images/iscas202508.jpg" target="_blank" rel="noopener">Link</a>
+      </div>
+    </li>
+    <li>
+      <div class="title"><strong>Invited talk</strong> — <em>Guardians of Trust: Safety &amp; Privacy for Healthcare Foundation Models</em></div>
+      <div class="meta">Duke Kunshan Graduate Student Colloquium • Apr 2025 • Jiangsu, China • 15 mins
+        • <a href="https://www.linkedin.com/posts/tianhaoli0x01_excited-to-share-our-recent-works-about-healthcare-activity-7318886918715256833-tdhg" target="_blank" rel="noopener">Link</a>
+      </div>
+    </li>
+    <li>
+      <div class="title"><strong>Contributed talk</strong> — <em>SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks</em></div>
+      <div class="meta">AAAI 2025 AI for Cybersecurity • Mar 2025 • Philadelphia, PA, USA • 20 mins
+        • <a href="https://www.linkedin.com/posts/tianhaoli0x01_aaai2025-aics-scisafeeval-activity-7302507426019258369-Z2ya" target="_blank" rel="noopener">Link</a>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<!-- Minimal styling (optional) -->
+<style>
+  .talks { margin: 0; padding-left: 1.1rem; }
+  .talks li { margin: 0 0 .6rem; }
+  .title { margin: 0 0 .15rem; }
+  .meta { color: #555;  }
+  @media (prefers-color-scheme: dark) { .meta { color: #aaa; } }
+</style>
+
+<!-- <section aria-labelledby="research-title">
+  <h3 id="research-title">Research Experiences</h3>
+  <ul class="exp">
+    <li>
+      <div class="top">
+        <span class="org">University of Wisconsin–Madison</span>
+        <span class="time"><time datetime="2025">2025</time>–present</span>
+      </div>
+      <div class="focus">Agent Security</div>
+    </li>
+    <li>
+      <div class="top">
+        <span class="org">Zhejiang University</span>
+        <span class="time"><time datetime="2024">2024</time>–<time datetime="2025">2025</time></span>
+      </div>
+      <div class="focus">LLM Safety Evaluation</div>
+    </li>
+    <li>
+      <div class="top">
+        <span class="org">TOPSEC</span>
+        <span class="time"><time datetime="2024">2024</time></span>
+      </div>
+      <div class="focus"><span class="role">Security Researcher</span> · Adversarial Machine Learning</div>
+    </li>
+    <li>
+      <div class="top">
+        <span class="org">NSFOCUS</span>
+        <span class="time"><time datetime="2023">2023</time>–<time datetime="2024">2024</time></span>
+      </div>
+      <div class="focus"><span class="role">Security Researcher</span> · LLM Red Teaming</div>
+    </li>
+  </ul>
+</section>
+<style>
+  .exp { list-style: none; margin: 0; padding: 0; }
+  .exp li { padding: .65rem 0; border-bottom: 1px solid #e5e7eb; }
+  .exp li:last-child { border-bottom: 0; }
+  .top { display: flex; justify-content: space-between; align-items: baseline; gap: .75rem; flex-wrap: wrap; }
+  .org { font-weight: 600; }
+  .time { color: #6b7280; font-size: .95rem; font-variant-numeric: tabular-nums; }
+  .focus { margin-top: .15rem; color: #475569; font-size: .95rem; }
+  .role { font-weight: 500; }
+  @media (prefers-color-scheme: dark) {
+    .exp li { border-color: #2b2f38; }
+    .time { color: #a3a3a3; }
+    .focus { color: #c6c6c6; }
+  }
+</style> -->
+
+
 
 <br><br>
 
