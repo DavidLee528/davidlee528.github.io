@@ -520,54 +520,23 @@ My research focuses on advancing trustworthy generative AI by identifying safety
   @media (prefers-color-scheme: dark) { .meta { color: #aaa; } }
 </style>
 
-<!-- <section aria-labelledby="research-title">
-  <h3 id="research-title">Research Experiences</h3>
-  <ul class="exp">
-    <li>
-      <div class="top">
-        <span class="org">University of Wisconsin–Madison</span>
-        <span class="time"><time datetime="2025">2025</time>–present</span>
-      </div>
-      <div class="focus">Agent Security</div>
-    </li>
-    <li>
-      <div class="top">
-        <span class="org">Zhejiang University</span>
-        <span class="time"><time datetime="2024">2024</time>–<time datetime="2025">2025</time></span>
-      </div>
-      <div class="focus">LLM Safety Evaluation</div>
-    </li>
-    <li>
-      <div class="top">
-        <span class="org">TOPSEC</span>
-        <span class="time"><time datetime="2024">2024</time></span>
-      </div>
-      <div class="focus"><span class="role">Security Researcher</span> · Adversarial Machine Learning</div>
-    </li>
-    <li>
-      <div class="top">
-        <span class="org">NSFOCUS</span>
-        <span class="time"><time datetime="2023">2023</time>–<time datetime="2024">2024</time></span>
-      </div>
-      <div class="focus"><span class="role">Security Researcher</span> · LLM Red Teaming</div>
-    </li>
+<section aria-labelledby="research-title">
+  <h3 id="research-title">Experiences</h3>
+  <ul class="research-list">
+    <li><strong>University of Wisconsin–Madison</strong> — Agentic Security <span class="time">2025–</span></li>
+    <li><strong>Zhejiang University</strong> — LLM Safety <span class="time">2024–2025</span></li>
+    <li><strong>TOPSEC</strong> — Security Researcher, Adversarial Machine Learning <span class="time">2024</span></li>
+    <li><strong>NSFOCUS</strong> — Security Researcher, LLM Red Teaming <span class="time">2023–2024</span></li>
   </ul>
 </section>
+
+<!-- Optional tiny styling -->
 <style>
-  .exp { list-style: none; margin: 0; padding: 0; }
-  .exp li { padding: .65rem 0; border-bottom: 1px solid #e5e7eb; }
-  .exp li:last-child { border-bottom: 0; }
-  .top { display: flex; justify-content: space-between; align-items: baseline; gap: .75rem; flex-wrap: wrap; }
-  .org { font-weight: 600; }
-  .time { color: #6b7280; font-size: .95rem; font-variant-numeric: tabular-nums; }
-  .focus { margin-top: .15rem; color: #475569; font-size: .95rem; }
-  .role { font-weight: 500; }
-  @media (prefers-color-scheme: dark) {
-    .exp li { border-color: #2b2f38; }
-    .time { color: #a3a3a3; }
-    .focus { color: #c6c6c6; }
-  }
-</style> -->
+  .research-list { margin: 0; padding-left: 1.1rem; }
+  .research-list li { margin: .4rem 0; }
+  .time { color: #666; }
+  @media (prefers-color-scheme: dark) { .time { color: #aaa; } }
+</style>
 
 
 
