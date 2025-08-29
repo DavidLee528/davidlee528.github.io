@@ -521,12 +521,11 @@ My research focuses on advancing trustworthy generative AI by identifying safety
 </style>
 
 <section aria-labelledby="research-title">
-  <h3 id="research-title">Experiences</h3>
+  <h3 id="research-title">Industry Experiences</h3>
   <ul class="research-list">
-    <li><strong>University of Wisconsin–Madison</strong> — Agentic Security <span class="time">2025–</span></li>
-    <li><strong>Zhejiang University</strong> — LLM Safety <span class="time">2024–2025</span></li>
-    <li><strong>TOPSEC</strong> — Security Researcher, Adversarial Machine Learning <span class="time">2024</span></li>
-    <li><strong>NSFOCUS</strong> — Security Researcher, LLM Red Teaming <span class="time">2023–2024</span></li>
+    <li><strong><a href="https://mlcommons.org/">MLCommons</a></strong> — AIRR Working Group <span class="time">2024-present</span></li>
+    <li><strong><a href="https://www.topsecgroup.com/">TOPSEC</a></strong> — Security Researcher, Adversarial Machine Learning <span class="time">2024</span></li>
+    <li><strong><a href="https://nsfocusglobal.com/">NSFOCUS</a></strong> — Security Researcher, LLM Red Teaming <span class="time">2023–2024</span></li>
   </ul>
 </section>
 
