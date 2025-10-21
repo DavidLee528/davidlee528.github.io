@@ -17,3 +17,4 @@ footer: '© 2025 Tianhao Li. All rights reserved.'
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
