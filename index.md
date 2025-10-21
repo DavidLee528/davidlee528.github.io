@@ -1,5 +1,5 @@
 ---
-title: /
+title: home
 layout: home
 permalink: /
 ---
@@ -19,3 +19,7 @@ I’m Tianhao Li, interested in building the next generation of safe and secure 
 - 2024-2024, TOPSEC, Security Researcher (Intern), Adversarial ML
 - 2023-2024, NSFOCUS, Security Researcher (Intern), LLM Red Teaming
 
+# Contact
+
+- Email: [tianhao.li@proton.me](mailto:tianhao.li@proton.me)
+- PGP Public Key: [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ site.baseurl }}/docs/TianhaoLi_0xBA448C7765EBC1DC_public.asc)

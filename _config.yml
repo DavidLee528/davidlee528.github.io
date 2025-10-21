@@ -5,9 +5,9 @@ url: ""
 
 header_pages:
   - index.md
-  - research.md
+  # - research.md
   # - about.md
-  - contact.md
+  # - contact.md
 
 style: dark
 
