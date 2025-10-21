@@ -15,6 +15,5 @@ footer: '© 2025 Tianhao Li. All rights reserved.'
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-console
 plugins:
   - jekyll-feed
