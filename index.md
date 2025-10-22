@@ -15,7 +15,7 @@ I’m Tianhao Li, interested in building the next generation of safe and secure 
 
 # Experience
 
-- 2025-____, SIGMIR, Co-founder & CEO, Interdisciplinary Research
+- 2025-[__], SIGMIR, Co-founder & CEO, Interdisciplinary Research
 - 2024-2024, TOPSEC, Security Researcher (Intern), Adversarial ML
 - 2023-2024, NSFOCUS, Security Researcher (Intern), LLM Red Teaming
 
