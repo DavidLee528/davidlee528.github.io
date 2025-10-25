@@ -6,6 +6,7 @@ url: ""
 header_pages:
   - index.md
   # - research.md
+  - misc.md
   # - about.md
   # - contact.md
 
