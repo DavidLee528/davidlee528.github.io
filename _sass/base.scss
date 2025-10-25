@@ -131,3 +131,22 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vg { color: var(--code-color-7); } /* Name.Variable.Global */
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
+
+/* ClustrMaps embed tweaks */
+.clustrmaps-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto 0;
+  line-height: 0;
+}
+
+.clustrmaps-wrapper #clustrmaps-widget-v2 {
+  display: inline-block;
+  min-height: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+
+.clustrmaps-wrapper #clustrmaps-widget-v2 > .clustrmaps-bottom-text {
+  display: none !important;
+}
