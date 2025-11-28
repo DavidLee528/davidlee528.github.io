@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome
 
-I’m Tianhao Li, interested in building the next generation of safe and secure intelligent systems that deliver trust to end users. I have an interdisciplinary background including cybersecurity, science, and artificial intelligence. I spent a rewarding year at industry security labs before beginning my academic research journey in September 2024.
+I’m Tianhao Li, interested in building safe and secure autonomous agent and multi-agent system. I have an interdisciplinary background including cybersecurity, science, and artificial intelligence. I spent a rewarding year at industry labs before beginning my academic research journey in September 2024.
 
 # Experience
 
