@@ -10,8 +10,8 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Experience
 
-- 2025-[__], ByteDance, ByteIntern, Agent Research
-- 2025-[__], SIGMIR, Co-founder & CEO, Interdisciplinary Research
+- 2025-[__], ByteDance, Agent Research Intern, Trajectory
+<!-- - 2025-[__], SIGMIR, Co-founder & CEO, Interdisciplinary Research -->
 - 2024-2024, TOPSEC, Security Researcher, Adversarial Machine Learning
 - 2023-2024, NSFOCUS, Security Researcher, LLM Red Teaming
 
