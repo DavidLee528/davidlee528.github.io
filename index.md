@@ -17,7 +17,7 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Contact
 
-- Email: [tianhao.li@proton.me](mailto:tianhao.li@proton.me)
+- Email: [tianhao.li@owasp.org](mailto:tianhao.li@owasp.org)
 - PGP Public Key: [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ site.baseurl }}/docs/TianhaoLi_0xBA448C7765EBC1DC_public.asc)
 
 <br><br>
