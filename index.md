@@ -25,6 +25,8 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 - [2601] One first author paper at ICLR 2026. (Agent Security)
 - [2601] One co-first author paper at EACL 2026 Oral. (LLM Safety)
 - [2508] One paper at EMNLP 2025 Findings (Agent Safety)
+- [2506] One paper at Biosensors and Bioelectronics. 
+- [2504] One paper at Neurocomputing. 
 
 <br><br>
 
