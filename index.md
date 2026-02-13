@@ -6,14 +6,21 @@ permalink: /
 
 # Welcome
 
-I’m Tianhao Li, interested in building safe and secure autonomous agent and multi-agent system. I have an interdisciplinary background including cybersecurity, science, and artificial intelligence. I spent a rewarding year at industry labs before beginning my academic research journey in September 2024.
+I’m Tianhao Li, interested in building safe and secure autonomous agent and multi-agent system. I have an interdisciplinary background including cybersecurity, science, and artificial intelligence. 
 
-# Experience
+# Employment
 
-- 2025-[__], ByteDance, Agent Research Intern, Trajectory & Self-Evolving
-<!-- - 2025-[__], SIGMIR, Co-founder & CEO, Interdisciplinary Research -->
-- 2024-2024, TOPSEC, Security Researcher, Adversarial Machine Learning
-- 2023-2024, NSFOCUS, Security Researcher, LLM Red Teaming
+
+- 2511-26xx, ByteDance, Agent Research Intern, Trajectory & Self-Evolving
+- 2403-2409, TOPSEC, Security Researcher, Adversarial Machine Learning
+- 2309-2403, NSFOCUS, Security Researcher, LLM Red Teaming
+
+# Projects
+
+- 2602-2604, Harvard AI Safety Student Team, Technical Fellowship
+- 2602-26xx, Parker & Lawrence Research, Technical Staff
+- 2501-26xx, SIGMIR, Co-founder & CEO
+
 
 # Contact
 
