@@ -10,17 +10,9 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Employment
 
-
 - 2511-26xx, ByteDance, Agent Research Intern, Trajectory & Self-Evolving
 - 2403-2409, TOPSEC, Security Researcher, Adversarial Machine Learning
 - 2309-2403, NSFOCUS, Security Researcher, LLM Red Teaming
-
-# Projects
-
-- 2602-2604, Harvard AI Safety Student Team, Technical Fellowship
-- 2602-26xx, Parker & Lawrence Research, Technical Staff
-- 2501-26xx, SIGMIR, Co-founder & CEO
-
 
 # Contact
 
@@ -29,6 +21,8 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Updates
 
+- [2603] Black Hat Asia 2026 Scholarship
+- [2602] AISST Technical Fellowship
 - [2601] One first author paper at ICLR 2026. (Agent Security)
 - [2601] One co-first author paper at EACL 2026 Oral. (LLM Safety)
 - [2508] One paper at EMNLP 2025 Findings (Agent Safety)
