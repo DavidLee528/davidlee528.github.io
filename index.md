@@ -21,12 +21,13 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Updates
 
+- [2604] One first author poster at IEEE S&P 2026.
 - [2603] Received Evaluation and Model Insight Award at EACL 2026.
 - [2603] Received Black Hat Asia 2026 Scholarship.
 - [2602] Received AISST Technical Fellowship.
-- [2601] One first author paper at ICLR 2026. (Agent Security)
-- [2601] One co-first author paper at EACL 2026 Oral. (LLM Safety)
-- [2508] One paper at EMNLP 2025 Findings (Agent Safety)
+- [2601] One first author paper at ICLR 2026.
+- [2601] One co-first author paper at EACL 2026 Oral.
+- [2508] One paper at EMNLP 2025 Findings
 - [2506] One paper at Biosensors and Bioelectronics. 
 - [2504] One paper at Neurocomputing. 
 
