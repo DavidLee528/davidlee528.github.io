@@ -10,7 +10,7 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Employment
 
-- 2511-26xx, ByteDance, Agent Research Intern, Trajectory & Self-Evolving
+- 2511-26xx, ByteDance, Agent Research Intern, Trajectory & Harness
 - 2403-2409, TOPSEC, Security Researcher, Adversarial Machine Learning
 - 2309-2403, NSFOCUS, Security Researcher, LLM Red Teaming
 
@@ -19,8 +19,9 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 - Email: [tianhao.li@owasp.org](mailto:tianhao.li@owasp.org)
 - PGP Public Key: [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ site.baseurl }}/docs/TianhaoLi_0xBA448C7765EBC1DC_public.asc)
 
-# Updates
+# Trajectory
 
+- [2604] One paper at AI for Science journal.
 - [2604] One first author poster at IEEE S&P 2026.
 - [2603] Evaluation and Model Insight Award at EACL 2026.
 - [2603] Black Hat Asia 2026 Scholarship.
