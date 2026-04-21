@@ -10,7 +10,7 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 
 # Employment
 
-- 2511-26xx, ByteDance, Agent Research Intern, Trajectory & Harness
+- 2511-2605, ByteDance, Agent Research Intern, Trajectory & Harness
 - 2403-2409, TOPSEC, Security Researcher, Adversarial Machine Learning
 - 2309-2403, NSFOCUS, Security Researcher, LLM Red Teaming
 
@@ -28,6 +28,7 @@ I’m Tianhao Li, interested in building safe and secure autonomous agent and mu
 - [2602] AISST Technical Fellowship.
 - [2601] One first author paper at ICLR 2026.
 - [2601] One co-first author paper at EACL 2026 Oral.
+- [2512] Tinker Research Grant from Thinking Machines Lab
 - [2508] One paper at EMNLP 2025 Findings
 - [2506] One paper at Biosensors and Bioelectronics. 
 - [2504] One paper at Neurocomputing. 
