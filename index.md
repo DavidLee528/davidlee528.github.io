@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome
 
-I’m Tianhao Li, interested in building safe and secure autonomous agent and multi-agent system. I have an interdisciplinary background including cybersecurity, science, and artificial intelligence. 
+I’m Tianhao Li, and my research focuses on LLM agents and their real-world applications. More specifically, I work on security, autonomy, and practical applications.
 
 # Employment
 
