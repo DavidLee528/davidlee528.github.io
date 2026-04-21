@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome
 
-I’m Tianhao Li, and my research focuses on LLM agents and their real-world applications. More specifically, I work on security, autonomy, and practical applications.
+I’m Tianhao Li, I focus on LLM agents and their real-world applications. More specifically, I work on security, autonomy, and practical applications.
 
 # Employment
 
