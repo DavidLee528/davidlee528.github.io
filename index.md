@@ -21,6 +21,7 @@ Pubkey > [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ si
 
 # Trajectory
 
+2605 > Bronze Tier Reviewer Distinction from IJCAI-ECAI 2026.
 2604 > One paper at AI for Science journal.
 2604 > One first author poster at IEEE S&P 2026.
 2603 > Evaluation and Model Insight Award at EACL 2026.
