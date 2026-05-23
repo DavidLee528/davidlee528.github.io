@@ -10,7 +10,7 @@ I’m Tianhao Li, and I focus on LLM agents, with an emphasis on autonomy, pract
 
 # Employment
 
-2511-2605 > ByteDance, Agent Researcher, Trajectory & Harness
+2511-2605 > ByteDance, Research Intern, Trajectory & Harness
 2403-2409 > TOPSEC, Security Researcher, Adversarial Machine Learning
 2309-2403 > NSFOCUS, Security Researcher, LLM Red Teaming
 
@@ -21,7 +21,7 @@ Pubkey > [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ si
 
 # Trajectory
 
-2605 > Bronze Tier Reviewer Distinction from IJCAI-ECAI 2026.
+2605 > Bronze Reviewer Distinction from IJCAI-ECAI 2026.
 2604 > One paper at AI for Science journal.
 2604 > One first author poster at IEEE S&P 2026.
 2603 > Evaluation and Model Insight Award at EACL 2026.
