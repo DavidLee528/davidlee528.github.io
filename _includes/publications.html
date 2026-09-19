@@ -1,0 +1,50 @@
+<div class="publications">
+
+{% assign current_year = nil %}
+
+{% assign items = include.items | default: site.data.publications %}
+
+{% for pub in items %}
+
+  {% unless include.hide_years %}
+    {% if pub.year != current_year %}
+      <h3 class="publication-year">{{ pub.year }}</h3>
+      {% assign current_year = pub.year %}
+    {% endif %}
+  {% endunless %}
+
+  <article class="publication-item">
+
+    <div class="publication-title">
+      {% if pub.url %}
+        <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">
+          {{ pub.title }}
+        </a>
+      {% else %}
+        {{ pub.title }}
+      {% endif %}
+    </div>
+
+    {% if pub.authors %}
+      <div class="publication-authors">
+        {% assign authors = pub.authors
+          | replace: "Tianhao Li", "<strong>Tianhao Li</strong>"
+        %}
+        {{ authors }}
+      </div>
+    {% endif %}
+
+    <div class="publication-meta">
+      <span class="publication-venue">{{ pub.venue }}, {{ pub.year }}</span>
+
+      {% if pub.note %}
+        <span class="publication-separator">·</span>
+        <span class="publication-note">{{ pub.note }}</span>
+      {% endif %}
+    </div>
+
+  </article>
+
+{% endfor %}
+
+</div>

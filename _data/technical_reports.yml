@@ -1,0 +1,21 @@
+# Keep technical reports grouped by year and ordered as you want them displayed.
+
+- year: 2026
+  title: "A Robust, Defensible, and Reproducible Methodology for Benchmarking Single-Turn Jailbreak Attacks on Large Language Models"
+  venue: "MLCommons Technical Report"
+  note:
+
+- year: 2025
+  title: "Agentic Product Maturity Ladder V0.1"
+  venue: "MLCommons Technical Report"
+  note:
+
+- year: 2025
+  title: "AILuminate Security: Introducing v0.5 of the Jailbreak Benchmark from MLCommons"
+  venue: "MLCommons Technical Report"
+  note:
+
+- year: 2025
+  title: "AILuminate: Introducing v1.0 of the AI Risk and Reliability Benchmark from MLCommons"
+  venue: "MLCommons Technical Report"
+  note:

@@ -1,0 +1,74 @@
+# Keep publications grouped by year and ordered as you want them displayed.
+# To add a new paper, simply add another block here.
+
+- year: 2026
+  title: "A2ASecBench: A Protocol-Aware Security Benchmark for Agent-to-Agent Multi-Agent Systems"
+  authors: "Tianhao Li, Chuangxin Chu, Yujia Zheng, Bohan Zhang, Neil Zhenqiang Gong, Chaowei Xiao"
+  venue: "International Conference on Learning Representations (ICLR)"
+  note:
+
+- year: 2026
+  title: "Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in Large Language Models"
+  authors: "Yujia Zheng*, Tianhao Li*, Haotian Huang, Tianyu Zeng, Jingyu Lu, Chuangxin Chu, Yuekai Huang, Ziyou Jiang, Qian Xiong, Yuyao Ge, Mingyang Li"
+  venue: "European Chapter of the Association for Computational Linguistics (EACL)"
+  note: "Oral · Evaluation and Model Insight Award"
+
+- year: 2026
+  title: "Emerging from Ground: Addressing Intent Deviation in Tool-Using Agents via Deriving Real Calls into Virtual Trajectories"
+  authors: "Qian Xiong, Yuekai Huang, Yujia Zheng, Tianhao Li, Ziyou Jiang, Zhiyuan Chang, Zhaoyang Li, Huanxiang Feng, Mingyang Li"
+  venue: "arXiv"
+  note:
+
+- year: 2026
+  title: "Beyond History Mirroring: Profile-Driven Bidirectional Intent Evolution for Personalized Query Recommendation"
+  authors: "Yepeng Feng, Yujia Zheng, Tianhao Li, Xuan Tian"
+  venue: "SSRN"
+  note:
+
+- year: 2026
+  title: "Beyond Accuracy: Comprehensive Alignment for AI-Driven Molecular Design"
+  authors: "Qiang Zhang, Xiang Zhuang, Chenyi Zhou, Yihang Zhu, Tong Xu, Tianhao Li, Dianbo Liu, Shengchao Liu, Keyan Ding, Emine Yilmaz, Haofen Wang, Huajun Chen"
+  venue: "AI for Science (AI4Sci)"
+  note:
+
+- year: 2026
+  title: "A Versatile Method for Accurately Predicting Electronic Absorption Spectra of Tetrapyrrole Macrocycles"
+  authors: "Guofan Zhang, Xuanzhi Wang, Qirui Sun, Hanchi Zhao, Jiaao Han, Haoyuan Yang, Hanyu Wang, Chengshu Tian, Aizhen Kuang, Chulong Zhang, Tianhao Li, Zijing Wang, Pengzhan Guo, Rui Liu"
+  venue: "Scientific Reports"
+  note:
+
+- year: 2025
+  title: "AI Benchmark Democratization and Carpentry"
+  authors: "Gregor von Laszewski, Wesley Brewer, Jeyan Thiyagalingam, Juri Papay, Armstrong Foundjem, Piotr Luszczek, Murali Emani, Shirley V. Moore, Vijay Janapa Reddi, Matthew D. Sinclair, Sebastian Lobentanzer, Sujata Goswami, Benjamin Hawks, Marco Colombo, Nhan Tran, Christine R. Kirkpatrick, Abdulkareem Alsudais, Gregg Barrett, Tianhao Li, Kirsten Morehouse, Shivaram Venkataraman, Rutwik Jain, Kartik Mathur, Victor Lu, Tejinder Singh, Khojasteh Z. Mirza, Kongtao Chen, Sasidhar Kunapuli, Gavin Farrell, Renato Umeton, Geoffrey C. Fox"
+  venue: "arXiv"
+  note:
+
+- year: 2025
+  title: "SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks"
+  authors: "Tianhao Li, Jingyu Lu, Chuangxin Chu, Tianyu Zeng, Yujia Zheng, Mei Li, Haotian Huang, Bin Wu, Zuoxian Liu, Kai Ma, Xuejing Yuan, Xingkai Wang, Keyan Ding, Huajun Chen, Qiang Zhang"
+  venue: "AAAI-25 Workshop on Artificial Intelligence for Cyber Security (AICS)"
+  note: "Oral"
+
+- year: 2025
+  title: "Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems"
+  authors: "Qian Xiong, Yuekai Huang, Ziyou Jiang, Zhiyuan Chang, Yujia Zheng, Tianhao Li, Mingyang Li"
+  venue: "Findings of the Association for Computational Linguistics: EMNLP"
+  note:
+
+- year: 2025
+  title: "SFSWTS: A Spatial-Frequency Shifted Windows and Time Self-Attention Network for EEG Emotion Recognition"
+  authors: "Weizhi Ma, Ying Li, Tianhao Li, Haowei Yang, Zhengping Li, Lijun Wang, Junyu Xuan"
+  venue: "Neurocomputing"
+  note:
+
+- year: 2025
+  title: "A Survey of Vibe Coding with Large Language Models"
+  authors: "Yuyao Ge, Lingrui Mei, Zenghao Duan, Tianhao Li, Yujia Zheng, Yiwei Wang, Lexin Wang, Jiayu Yao, Tianyu Liu, Yujun Cai, Baolong Bi, Fangda Guo, Jiafeng Guo, Shenghua Liu, Xueqi Cheng"
+  venue: "arXiv"
+  note:
+
+- year: 2025
+  title: "From Droplets to Diagnosis: AI-Driven Imaging and System Integration in Digital Nucleic Acid Amplification Testing"
+  authors: "Yuanyuan Wei, Xianxian Liu, Yao Mu, Changran Xu, Guoxun Zhang, Tianhao Li, Zida Li, Wu Yuan, Ho-Pui Ho, Mingkun Xu"
+  venue: "Biosensors and Bioelectronics"
+  note:

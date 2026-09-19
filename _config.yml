@@ -5,14 +5,15 @@ url: ""
 
 header_pages:
   - index.md
+  - work.md
   # - research.md
-  - misc.md
+  - afterwork.md
   # - about.md
   # - contact.md
 
 style: dark
 
-footer: '© 2025 Tianhao Li. All rights reserved.'
+footer: '© Tianhao Li. All rights reserved.'
 
 # Build settings
 markdown: kramdown

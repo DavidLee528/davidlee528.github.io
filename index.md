@@ -4,22 +4,26 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+Hi, I'm Tianhao Li. <br>
+I'm a researcher at [2077AI](https://www.2077ai.com/) and [ZODA](https://zoda.zone/), and an algorithm engineer at [MolarData](https://www.molardata.com/). My [work]({{ site.url }}{{ site.baseurl }}/work) focuses on the evaluation of AI agents and their real-world applications. <br>
+Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), focusing on agent trajectories and evaluation harnesses. Before that, I worked as a security researcher at [TOPSEC](https://www.topsecgroup.com/) and [NSFOCUS](https://nsfocusglobal.com/) on AI red teaming.<br>
+I have been fortunate to receive the EACL 2026 evaluation and model insight award, IJCAI-ECAI 2026 bronze reviewer distinction, Black Hat Asia scholarship, and technical fellowships from AISST and BlueDot Impact, as well as a tinker research grant from Thinking Machines Lab.<br>
+[Afterwork]({{ site.baseurl }}/afterwork), I enjoy ultra-trail running, enduro mountain biking, 4x4 off-roading, and photography. I’m especially drawn to mountains, long-distance adventures, and exploring places beyond the usual routes.<br>
+For contact, feel free to drop me an email at [tianhao.li@owasp.org](mailto:tianhao.li@owasp.org) or send me a DM on [LinkedIn](https://www.linkedin.com/in/tianhaoli0x01/). For encrypted communication, please download my PGP public key at [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ site.baseurl }}/docs/TianhaoLi_0xBA448C7765EBC1DC_public.asc). <br>
+Thanks!
 
-I’m Tianhao Li, and I focus on LLM agents, with an emphasis on autonomy, practical applications, and security in high-stakes domains.
-
-# Employment
+<!-- # Employment
 
 2511-2605 > ByteDance, Research Intern, Trajectory & Harness
 2403-2409 > TOPSEC, Security Researcher, Adversarial Machine Learning
-2309-2403 > NSFOCUS, Security Researcher, LLM Red Teaming
+2309-2403 > NSFOCUS, Security Researcher, LLM Red Teaming -->
 
-# Contact
+<!-- # Contact
 
 Email > [tianhao.li@owasp.org](mailto:tianhao.li@owasp.org)
-Pubkey > [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ site.baseurl }}/docs/TianhaoLi_0xBA448C7765EBC1DC_public.asc)
+Pubkey > [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ site.baseurl }}/docs/TianhaoLi_0xBA448C7765EBC1DC_public.asc) -->
 
-# Trajectory
+<!-- # Trajectory
 
 2605 > Technical AI safety course at BlueDot Impact.
 2605 > One paper at Scientific Reports.
@@ -36,8 +40,8 @@ Pubkey > [7A4F-5713-BF75-077E-6072-98A7-BA44-8C77-65EB-C1DC]({{ site.url }}{{ si
 2506 > One paper at Biosensors and Bioelectronics. 
 2504 > One paper at Neurocomputing. 
 
-<br><br>
+<br><br> -->
 
-<div class="clustrmaps-wrapper">
+<!-- <div class="clustrmaps-wrapper">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=e0e0e0&w=150&t=m&d=cyY1djDVl5DrRqSHVBXSRUNSn5F7KIauBzgFwliWT8E&co=000000&ct=bcbcbc&cmo=3acc3a&cmn=ff5353'></script>
-</div>
+</div> -->
