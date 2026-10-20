@@ -5,7 +5,7 @@ permalink: /
 ---
 
 Hi, I'm Tianhao Li. <br>
-I'm a researcher at [2077AI](https://www.2077ai.com/) and [ZODA](https://zoda.zone/), and an algorithm engineer at [MolarData](https://www.molardata.com/). My [work]({{ site.url }}{{ site.baseurl }}/work) focuses on the evaluation of AI agents and their real-world applications. <br>
+I'm a researcher at [ZODA](https://zoda.zone/), and an algorithm engineer at [MolarData](https://www.molardata.com/). My [work]({{ site.url }}{{ site.baseurl }}/work) focuses on the evaluation of AI agents and their real-world applications. <br>
 Previously, I was a research intern at [ByteDance](https://www.bytedance.com/en/), focusing on agent trajectories and evaluation harnesses. Before that, I worked as a security researcher at [TOPSEC](https://www.topsecgroup.com/) and [NSFOCUS](https://nsfocusglobal.com/) on AI red teaming.<br>
 I have been fortunate to receive the EACL 2026 evaluation and model insight award, IJCAI-ECAI 2026 bronze reviewer distinction, Black Hat Asia scholarship, and technical fellowships from AISST and BlueDot Impact, as well as a tinker research grant from Thinking Machines Lab.<br>
 [Afterwork]({{ site.baseurl }}/afterwork), I enjoy ultra-trail running, enduro mountain biking, 4x4 off-roading, and photography. I’m especially drawn to mountains, long-distance adventures, and exploring places beyond the usual routes.<br>
